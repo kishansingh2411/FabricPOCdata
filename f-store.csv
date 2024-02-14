@@ -1,0 +1,11 @@
+StoreID,StoreName,CityID,CityName,StateID,StateName,CountryID,CountryName
+2001,ArtisanWonders,101,Tokyo,280,Tokyo,JPN,Japan
+2002,SereneHarbor,197,Dar es Salaam,222,Dar es Salaam,TAN,Tanzania
+2003,UrbanNest,148,Luanda,246,Luanda,AGO,Angola
+2004,VelvetBoutique,184,Warsaw,239,Warsaw,POL,Poland
+2005,MystiKraft,128,Saint Johnas,232,Saint Johnas,ATG,Antigua and Barbuda
+2006,PoshPalette,113,Nur Sultan,270,Nur Sultan,KAZ,Kazakhstan
+2007,VintageVista,115,Khartoum,218,Khartoum,SUD,Sudan
+2008,RusticRoots,150,Niamey,281,Niamey,NIG,Niger
+2009,RadiantAura,153,Maputo,213,Maputo,MOZ,Mozambique
+2010,DreamWeave,148,Tbilisi,215,Tbilisi,GEO,Georgia
