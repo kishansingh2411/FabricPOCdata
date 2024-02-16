@@ -1,11 +1,601 @@
 StoreID,StoreName,CityID,CityName,StateID,StateName,CountryID,CountryName
-2001,ArtisanWonders,101,Tokyo,280,Tokyo,JPN,Japan
-2002,SereneHarbor,197,Dar es Salaam,222,Dar es Salaam,TAN,Tanzania
-2003,UrbanNest,148,Luanda,246,Luanda,AGO,Angola
-2004,VelvetBoutique,184,Warsaw,239,Warsaw,POL,Poland
-2005,MystiKraft,128,Saint Johnas,232,Saint Johnas,ATG,Antigua and Barbuda
-2006,PoshPalette,113,Nur Sultan,270,Nur Sultan,KAZ,Kazakhstan
-2007,VintageVista,115,Khartoum,218,Khartoum,SUD,Sudan
-2008,RusticRoots,150,Niamey,281,Niamey,NIG,Niger
-2009,RadiantAura,153,Maputo,213,Maputo,MOZ,Mozambique
-2010,DreamWeave,148,Tbilisi,215,Tbilisi,GEO,Georgia
+3001.0,Cruz,119.0,Prague,405.0,Prague,null,Czech Republic
+3002.0,Bolton,291.0,Gitega,511.0,Gitega,BDI,Burundi
+3003.0,Harrell,230.0,Brazzaville,466.0,Brazzaville,null,Republic of the Congo
+3004.0,Marshall,225.0,Lima,490.0,Lima,PER,Peru
+3005.0,Hahn,103.0,Wellington,303.0,Wellington,NZL,New Zealand
+3006.0,Cherry,181.0,Gitega,597.0,Gitega,BDI,Burundi
+3007.0,Weaver,297.0,Havana,600.0,Havana,CUB,Cuba
+3008.0,Gordon,143.0,Bucharest,405.0,Bucharest,ROU,Romania
+3009.0,Rios,225.0,Santo Domingo,598.0,Santo Domingo,null,Dominican Republic
+3010.0,Beltran,189.0,Santiago,323.0,Santiago,CHL,Chile
+3011.0,Sweeney,102.0,Athens,582.0,Athens,GRC,Greece
+3012.0,Butler,125.0,Rome,534.0,Rome,ITA,Italy
+3013.0,Miles,180.0,Kabul,515.0,Kabul,AFG,Afghanistan
+3014.0,Huff,226.0,Cairo,397.0,Cairo,EGY,Egypt
+3015.0,Johnston,231.0,San Salvador,473.0,San Salvador,SLV,El Salvador
+3016.0,Pierce,261.0,Tegucigalpa,572.0,Tegucigalpa,HND,Honduras
+3017.0,Mcdowell,140.0,Georgetown,347.0,Georgetown,GUY,Guyana
+3018.0,Christensen,204.0,Jakarta,497.0,Jakarta,IDN,Indonesia
+3019.0,Bradley,103.0,Roseau,595.0,Roseau,DMA,Dominica
+3020.0,Smith,257.0,Tirane,448.0,Tirane,ALB,Albania
+3021.0,Jordan,162.0,Sofia,393.0,Sofia,BGR,Bulgaria
+3022.0,Huynh,282.0,Helsinki,371.0,Helsinki,FIN,Finland
+3023.0,White,142.0,Palestine,439.0,Palestine,null,Palestine
+3024.0,Ball,109.0,Nicosia,519.0,Nicosia,CYP,Cyprus
+3025.0,Rivers,171.0,Beirut,312.0,Beirut,LBN,Lebanon
+3026.0,Moreno,125.0,Baku,451.0,Baku,AZE,Azerbaijan
+3027.0,Mueller,185.0,Podgorica,423.0,Podgorica,MNE,Montenegro
+3028.0,Salas,243.0,Nur Sultan,321.0,Nur Sultan,KAZ,Kazakhstan
+3029.0,Hayden,104.0,Kampala,350.0,Kampala,UGA,Uganda
+3030.0,Ellison,132.0,Mogadishu,429.0,Mogadishu,SOM,Somalia
+3031.0,Powers,230.0,Lome,310.0,Lome,TGO,Togo
+3032.0,Bradshaw,117.0,Tbilisi,406.0,Tbilisi,GEO,Georgia
+3033.0,Gibson,123.0,Taipei,409.0,Taipei,null,Taiwan
+3034.0,Deleon,219.0,Colombo; Sri Jayewardenepura Kotte (legislative),520.0,Colombo; Sri Jayewardenepura Kotte (legislative),LKA,Sri Lanka
+3035.0,Wagner,132.0,Dili,323.0,Dili,null,East Timor (Timor-Leste)
+3036.0,Gomez,172.0,Lusaka,595.0,Lusaka,ZMB,Zambia
+3037.0,Gordon,177.0,Dushanbe,455.0,Dushanbe,TJK,Tajikistan
+3038.0,Watkins,232.0,Berlin,384.0,Berlin,DEU,Germany
+3039.0,Snow,138.0,Bissau,386.0,Bissau,GNB,Guinea-Bissau
+3040.0,Hawkins,145.0,Dhaka,307.0,Dhaka,BGD,Bangladesh
+3041.0,Price,257.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),329.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),ZAF,South Africa
+3042.0,Grimes,124.0,Paramaribo,459.0,Paramaribo,SUR,Suriname
+3043.0,Morrison,149.0,Port-au-Prince,321.0,Port-au-Prince,HTI,Haiti
+3044.0,Washington,129.0,Monte Carlo,495.0,Monte Carlo,MCO,Monaco
+3045.0,Blanchard,147.0,Tirane,394.0,Tirane,ALB,Albania
+3046.0,Castro,260.0,Addis Ababa,301.0,Addis Ababa,ETH,Ethiopia
+3047.0,Lin,141.0,Saint George’s,577.0,Saint George’s,GRD,Grenada
+3048.0,Hendricks,261.0,Skopje,592.0,Skopje,null,Macedonia
+3049.0,Weeks,290.0,Conakry,487.0,Conakry,GIN,Guinea
+3050.0,Mcconnell,245.0,Kampala,547.0,Kampala,UGA,Uganda
+3051.0,Contreras,164.0,Bogota,468.0,Bogota,COL,Colombia
+3052.0,Snow,160.0,Nairobi,345.0,Nairobi,KEN,Kenya
+3053.0,Andersen,179.0,Bandar Seri Begawan,309.0,Bandar Seri Begawan,null,Brunei
+3054.0,Barron,201.0,Banjul,360.0,Banjul,null,The Gambia
+3055.0,Klein,252.0,Tripoli,489.0,Tripoli,LBY,Libya
+3056.0,Guzman,190.0,Libreville,535.0,Libreville,GAB,Gabon
+3057.0,Cuevas,282.0,"Korea, North",426.0,"Korea, North",null,"Korea, North"
+3058.0,Whitney,116.0,Singapore,583.0,Singapore,SGP,Singapore
+3059.0,Guzman,118.0,Palestine,316.0,Palestine,null,Palestine
+3060.0,Key,254.0,Dhaka,314.0,Dhaka,BGD,Bangladesh
+3061.0,Patterson,117.0,San Jose,565.0,San Jose,CRI,Costa Rica
+3062.0,Melton,273.0,Bogota,573.0,Bogota,COL,Colombia
+3063.0,Oliver,234.0,Bishkek,342.0,Bishkek,KGZ,Kyrgyzstan
+3064.0,Tanner,281.0,Monrovia,379.0,Monrovia,LBR,Liberia
+3065.0,Long,199.0,Colombo; Sri Jayewardenepura Kotte (legislative),481.0,Colombo; Sri Jayewardenepura Kotte (legislative),LKA,Sri Lanka
+3066.0,Blackwell,298.0,Amsterdam; The Hague (seat of government),499.0,Amsterdam; The Hague (seat of government),null,Netherlands
+3067.0,Branch,281.0,Tokyo,304.0,Tokyo,JPN,Japan
+3068.0,Best,216.0,Thimphu,553.0,Thimphu,BTN,Bhutan
+3069.0,Edwards,292.0,Vilnius,522.0,Vilnius,LTU,Lithuania
+3070.0,Cross,116.0,N’Djamena,539.0,N’Djamena,TCD,Chad
+3071.0,Carter,257.0,Lilongwe,480.0,Lilongwe,MWI,Malawi
+3072.0,Hill,286.0,Dar es Salaam; Dodoma (legislative),575.0,Dar es Salaam; Dodoma (legislative),null,Tanzania
+3073.0,Espinoza,203.0,Kingston,367.0,Kingston,JAM,Jamaica
+3074.0,Wolf,190.0,Tokyo,499.0,Tokyo,JPN,Japan
+3075.0,Anthony,261.0,"Congo, Democratic Republic of the",446.0,"Congo, Democratic Republic of the",null,"Congo, Democratic Republic of the"
+3076.0,Short,159.0,Ouagadougou,542.0,Ouagadougou,BFA,Burkina Faso
+3077.0,Riddle,278.0,Belmopan,598.0,Belmopan,BLZ,Belize
+3078.0,Douglas,220.0,Vientiane,521.0,Vientiane,null,Laos
+3079.0,Ford,200.0,Monte Carlo,373.0,Monte Carlo,MCO,Monaco
+3080.0,Dyer,127.0,Ulaanbaatar,597.0,Ulaanbaatar,MNG,Mongolia
+3081.0,Mora,207.0,Vientiane,432.0,Vientiane,null,Laos
+3082.0,Livingston,285.0,Caracas,485.0,Caracas,null,Venezuela
+3083.0,Kim,120.0,Moroni,523.0,Moroni,null,Comoros
+3084.0,Murillo,110.0,Bishkek,307.0,Bishkek,KGZ,Kyrgyzstan
+3085.0,Moyer,102.0,Bandar Seri Begawan,478.0,Bandar Seri Begawan,null,Brunei
+3086.0,Bartlett,291.0,Nuku’alofa,359.0,Nuku’alofa,TON,Tonga
+3087.0,Hutchinson,244.0,Santiago,562.0,Santiago,CHL,Chile
+3088.0,Ewing,187.0,Lima,450.0,Lima,PER,Peru
+3089.0,Strong,256.0,Dushanbe,372.0,Dushanbe,TJK,Tajikistan
+3090.0,Delacruz,267.0,Lisbon,542.0,Lisbon,PRT,Portugal
+3091.0,Russo,247.0,Bamako,339.0,Bamako,MLI,Mali
+3092.0,Newman,279.0,Stockholm,325.0,Stockholm,SWE,Sweden
+3093.0,Hanson,166.0,Ulaanbaatar,384.0,Ulaanbaatar,MNG,Mongolia
+3094.0,Walters,190.0,Riga,368.0,Riga,LVA,Latvia
+3095.0,Sampson,262.0,N’Djamena,572.0,N’Djamena,TCD,Chad
+3096.0,Hobbs,182.0,Washington D.C.,419.0,Washington D.C.,null,United States of America
+3097.0,Hull,189.0,Ashgabat,557.0,Ashgabat,TKM,Turkmenistan
+3098.0,Cuevas,263.0,Port Moresby,400.0,Port Moresby,PNG,Papua New Guinea
+3099.0,Dudley,198.0,San Salvador,309.0,San Salvador,SLV,El Salvador
+3100.0,Larson,160.0,Rome,488.0,Rome,ITA,Italy
+3101.0,Booth,119.0,Brasilia,316.0,Brasilia,BRA,Brazil
+3102.0,Palmer,274.0,Niamey,505.0,Niamey,null,Niger
+3103.0,Lamb,183.0,Ljubljana,394.0,Ljubljana,SVN,Slovenia
+3104.0,Pham,244.0,Bamako,589.0,Bamako,MLI,Mali
+3105.0,Buck,126.0,Tirane,549.0,Tirane,ALB,Albania
+3106.0,Raymond,156.0,Freetown,572.0,Freetown,SLE,Sierra Leone
+3107.0,Singh,278.0,Helsinki,546.0,Helsinki,FIN,Finland
+3108.0,Montoya,245.0,Paramaribo,515.0,Paramaribo,SUR,Suriname
+3109.0,Carson,118.0,Dakar,559.0,Dakar,SEN,Senegal
+3110.0,Barron,180.0,Port Moresby,330.0,Port Moresby,PNG,Papua New Guinea
+3111.0,Lindsey,228.0,Copenhagen,345.0,Copenhagen,DNK,Denmark
+3112.0,Nelson,236.0,Port Moresby,487.0,Port Moresby,PNG,Papua New Guinea
+3113.0,Holmes,234.0,Dili,560.0,Dili,null,East Timor (Timor-Leste)
+3114.0,Luna,176.0,Tbilisi,366.0,Tbilisi,GEO,Georgia
+3115.0,Walls,253.0,Rome,465.0,Rome,ITA,Italy
+3116.0,Dillon,179.0,Singapore,544.0,Singapore,SGP,Singapore
+3117.0,Foster,160.0,Monte Carlo,333.0,Monte Carlo,MCO,Monaco
+3118.0,Curtis,299.0,Madrid,310.0,Madrid,ESP,Spain
+3119.0,Barber,249.0,Baku,530.0,Baku,AZE,Azerbaijan
+3120.0,Kennedy,295.0,Ljubljana,492.0,Ljubljana,SVN,Slovenia
+3121.0,Meza,159.0,Bangkok,582.0,Bangkok,THA,Thailand
+3122.0,Gardner,261.0,Yaounde,324.0,Yaounde,CMR,Cameroon
+3123.0,Booth,295.0,Banjul,306.0,Banjul,null,The Gambia
+3124.0,Wilkerson,151.0,Luxembourg,399.0,Luxembourg,LUX,Luxembourg
+3125.0,Kent,254.0,Saint John’s,483.0,Saint John’s,ATG,Antigua and Barbuda
+3126.0,Anthony,240.0,Dhaka,458.0,Dhaka,BGD,Bangladesh
+3127.0,Wiley,284.0,Tunis,441.0,Tunis,TUN,Tunisia
+3128.0,Decker,177.0,Pristina,415.0,Pristina,null,Kosovo
+3129.0,Prince,211.0,Copenhagen,356.0,Copenhagen,DNK,Denmark
+3130.0,Beltran,159.0,Jakarta,468.0,Jakarta,IDN,Indonesia
+3131.0,Levine,167.0,Dublin,456.0,Dublin,IRL,Ireland
+3132.0,Pittman,100.0,Sao Tome,326.0,Sao Tome,STP,Sao Tome and Principe
+3133.0,Sanders,172.0,Lusaka,493.0,Lusaka,ZMB,Zambia
+3134.0,Daniel,170.0,Moroni,445.0,Moroni,null,Comoros
+3135.0,Chavez,290.0,Cairo,317.0,Cairo,EGY,Egypt
+3136.0,Thomas,135.0,Bangui,312.0,Bangui,null,Central African Republic
+3137.0,Herman,222.0,Basseterre,419.0,Basseterre,KNA,Saint Kitts and Nevis
+3138.0,Ellison,224.0,Asuncion,495.0,Asuncion,PRY,Paraguay
+3139.0,Benton,280.0,Quito,399.0,Quito,ECU,Ecuador
+3140.0,Wiggins,106.0,Athens,565.0,Athens,GRC,Greece
+3141.0,Wang,174.0,Kabul,487.0,Kabul,AFG,Afghanistan
+3142.0,Sanders,112.0,Baku,328.0,Baku,AZE,Azerbaijan
+3143.0,Everett,193.0,Tarawa Atoll,392.0,Tarawa Atoll,KIR,Kiribati
+3144.0,Brandt,103.0,Tegucigalpa,524.0,Tegucigalpa,HND,Honduras
+3145.0,Gross,163.0,Libreville,515.0,Libreville,GAB,Gabon
+3146.0,Pitts,144.0,Tokyo,588.0,Tokyo,JPN,Japan
+3147.0,Stephenson,297.0,Stockholm,551.0,Stockholm,SWE,Sweden
+3148.0,Maynard,185.0,Brussels,409.0,Brussels,BEL,Belgium
+3149.0,Griffin,229.0,Dili,339.0,Dili,null,East Timor (Timor-Leste)
+3150.0,Murillo,201.0,Minsk,348.0,Minsk,BLR,Belarus
+3151.0,Lee,140.0,Muscat,433.0,Muscat,OMN,Oman
+3152.0,Hicks,174.0,Male,599.0,Male,MDV,Maldives
+3153.0,Wright,150.0,Kuwait City,343.0,Kuwait City,KWT,Kuwait
+3154.0,Shaffer,258.0,La Paz (administrative); Sucre (judicial),399.0,La Paz (administrative); Sucre (judicial),null,Bolivia
+3155.0,Forbes,103.0,Paramaribo,416.0,Paramaribo,SUR,Suriname
+3156.0,Douglas,237.0,Kigali,558.0,Kigali,RWA,Rwanda
+3157.0,Dickerson,235.0,Beijing,516.0,Beijing,CHN,China
+3158.0,Huber,263.0,Gaborone,565.0,Gaborone,BWA,Botswana
+3159.0,Franklin,115.0,Honiara,463.0,Honiara,SLB,Solomon Islands
+3160.0,Davila,181.0,Montevideo,396.0,Montevideo,URY,Uruguay
+3161.0,Bartlett,193.0,Beirut,447.0,Beirut,LBN,Lebanon
+3162.0,Marshall,269.0,Porto-Novo,341.0,Porto-Novo,BEN,Benin
+3163.0,Phillips,110.0,Singapore,302.0,Singapore,SGP,Singapore
+3164.0,Hickman,256.0,"Korea, North",547.0,"Korea, North",null,"Korea, North"
+3165.0,Bass,209.0,Jerusalem*,316.0,Jerusalem*,ISR,Israel
+3166.0,Park,215.0,Ankara,399.0,Ankara,TUR,Turkey
+3167.0,Garcia,124.0,Ouagadougou,391.0,Ouagadougou,BFA,Burkina Faso
+3168.0,Hunt,208.0,Stockholm,360.0,Stockholm,SWE,Sweden
+3169.0,Conrad,209.0,Paris,320.0,Paris,FRA,France
+3170.0,Stewart,161.0,Belgrade,393.0,Belgrade,SRB,Serbia
+3171.0,Jackson,123.0,Saint George’s,416.0,Saint George’s,GRD,Grenada
+3172.0,Huff,212.0,Santiago,408.0,Santiago,CHL,Chile
+3173.0,Hendrix,190.0,Yerevan,357.0,Yerevan,ARM,Armenia
+3174.0,Moss,193.0,Sanaa,469.0,Sanaa,YEM,Yemen
+3175.0,Huff,101.0,Prague,543.0,Prague,null,Czech Republic
+3176.0,Hicks,140.0,Vaduz,325.0,Vaduz,LIE,Liechtenstein
+3177.0,Bradley,195.0,Tripoli,305.0,Tripoli,LBY,Libya
+3178.0,Newman,254.0,Georgetown,415.0,Georgetown,GUY,Guyana
+3179.0,Cooke,195.0,Libreville,307.0,Libreville,GAB,Gabon
+3180.0,Mcdaniel,266.0,Managua,512.0,Managua,NIC,Nicaragua
+3181.0,Ramirez,133.0,Rabat,600.0,Rabat,MAR,Morocco
+3182.0,Jefferson,241.0,N’Djamena,560.0,N’Djamena,TCD,Chad
+3183.0,Garrison,166.0,Abu Dhabi,314.0,Abu Dhabi,null,United Arab Emirates
+3184.0,Stanley,172.0,Port-of-Spain,374.0,Port-of-Spain,TTO,Trinidad and Tobago
+3185.0,Morris,267.0,Riyadh,361.0,Riyadh,SAU,Saudi Arabia
+3186.0,Figueroa,155.0,Porto-Novo,325.0,Porto-Novo,BEN,Benin
+3187.0,Taylor,209.0,Budapest,426.0,Budapest,HUN,Hungary
+3188.0,Phelps,138.0,Andorra la Vella,338.0,Andorra la Vella,AND,Andorra
+3189.0,Manning,254.0,Freetown,402.0,Freetown,SLE,Sierra Leone
+3190.0,Galloway,149.0,Guatemala City,405.0,Guatemala City,GTM,Guatemala
+3191.0,Hayden,278.0,Djibouti,412.0,Djibouti,DJI,Djibouti
+3192.0,Robinson,163.0,Saint George’s,386.0,Saint George’s,GRD,Grenada
+3193.0,Tucker,172.0,Copenhagen,392.0,Copenhagen,DNK,Denmark
+3194.0,Walsh,235.0,Tarawa Atoll,445.0,Tarawa Atoll,KIR,Kiribati
+3195.0,Owen,270.0,Canberra,323.0,Canberra,AUS,Australia
+3196.0,Burke,283.0,Honiara,498.0,Honiara,SLB,Solomon Islands
+3197.0,Cortez,295.0,Maseru,503.0,Maseru,LSO,Lesotho
+3198.0,Leblanc,200.0,Vienna,559.0,Vienna,AUT,Austria
+3199.0,Barajas,242.0,Montevideo,595.0,Montevideo,URY,Uruguay
+3200.0,Werner,160.0,Havana,434.0,Havana,CUB,Cuba
+3201.0,Hall,259.0,Monte Carlo,407.0,Monte Carlo,MCO,Monaco
+3202.0,Singh,265.0,Nairobi,374.0,Nairobi,KEN,Kenya
+3203.0,Boyd,114.0,Quito,536.0,Quito,ECU,Ecuador
+3204.0,Barnes,101.0,Tripoli,573.0,Tripoli,LBY,Libya
+3205.0,Frank,155.0,Tbilisi,562.0,Tbilisi,GEO,Georgia
+3206.0,Galvan,154.0,Majuro,331.0,Majuro,null,Marshall Islands
+3207.0,Whitehead,276.0,Tarawa Atoll,563.0,Tarawa Atoll,KIR,Kiribati
+3208.0,Mccullough,215.0,Bissau,355.0,Bissau,GNB,Guinea-Bissau
+3209.0,Martinez,134.0,Khartoum,351.0,Khartoum,null,Sudan
+3210.0,Terrell,223.0,Sanaa,510.0,Sanaa,YEM,Yemen
+3211.0,Wyatt,184.0,Nairobi,556.0,Nairobi,KEN,Kenya
+3212.0,Huffman,284.0,Dublin,514.0,Dublin,IRL,Ireland
+3213.0,Sanders,217.0,Sao Tome,411.0,Sao Tome,STP,Sao Tome and Principe
+3214.0,Conley,236.0,Hanoi,405.0,Hanoi,null,Vietnam
+3215.0,Downs,116.0,Copenhagen,342.0,Copenhagen,DNK,Denmark
+3216.0,Boyle,287.0,Belgrade,490.0,Belgrade,SRB,Serbia
+3217.0,Douglas,291.0,Pristina,482.0,Pristina,null,Kosovo
+3218.0,Spears,285.0,Freetown,516.0,Freetown,SLE,Sierra Leone
+3219.0,Nixon,213.0,Accra,558.0,Accra,GHA,Ghana
+3220.0,Combs,185.0,Mogadishu,312.0,Mogadishu,SOM,Somalia
+3221.0,Tran,155.0,Tunis,433.0,Tunis,TUN,Tunisia
+3222.0,Elliott,299.0,Amman,403.0,Amman,JOR,Jordan
+3223.0,Tapia,240.0,Ouagadougou,395.0,Ouagadougou,BFA,Burkina Faso
+3224.0,Houston,165.0,Bogota,301.0,Bogota,COL,Colombia
+3225.0,Frank,181.0,Nicosia,468.0,Nicosia,CYP,Cyprus
+3226.0,Good,211.0,Kuwait City,355.0,Kuwait City,KWT,Kuwait
+3227.0,Galvan,114.0,Rabat,517.0,Rabat,MAR,Morocco
+3228.0,Fitzpatrick,234.0,Stockholm,417.0,Stockholm,SWE,Sweden
+3229.0,Clayton,177.0,Kathmandu,536.0,Kathmandu,NPL,Nepal
+3230.0,Barber,109.0,Algiers,319.0,Algiers,DZA,Algeria
+3231.0,Sellers,217.0,Brasilia,544.0,Brasilia,BRA,Brazil
+3232.0,Hansen,182.0,Kingston,571.0,Kingston,JAM,Jamaica
+3233.0,Cabrera,205.0,Stockholm,324.0,Stockholm,SWE,Sweden
+3234.0,Harper,220.0,Nur Sultan,502.0,Nur Sultan,KAZ,Kazakhstan
+3235.0,Bernard,132.0,La Paz (administrative); Sucre (judicial),386.0,La Paz (administrative); Sucre (judicial),null,Bolivia
+3236.0,Matthews,123.0,Asmara,403.0,Asmara,ERI,Eritrea
+3237.0,Norton,125.0,Libreville,468.0,Libreville,GAB,Gabon
+3238.0,Lawrence,191.0,Saint John’s,375.0,Saint John’s,ATG,Antigua and Barbuda
+3239.0,Mcgrath,183.0,Helsinki,335.0,Helsinki,FIN,Finland
+3240.0,Fisher,263.0,Tegucigalpa,341.0,Tegucigalpa,HND,Honduras
+3241.0,Petersen,186.0,Chisinau,447.0,Chisinau,null,Moldova
+3242.0,King,231.0,Sofia,450.0,Sofia,BGR,Bulgaria
+3243.0,Patterson,252.0,Dhaka,545.0,Dhaka,BGD,Bangladesh
+3244.0,Marquez,136.0,Rome,526.0,Rome,ITA,Italy
+3245.0,Simon,282.0,Muscat,435.0,Muscat,OMN,Oman
+3246.0,Bentley,235.0,Bogota,593.0,Bogota,COL,Colombia
+3247.0,Mcgrath,107.0,Ljubljana,440.0,Ljubljana,SVN,Slovenia
+3248.0,Frey,204.0,Brussels,589.0,Brussels,BEL,Belgium
+3249.0,Moore,271.0,Tuvalu,303.0,Tuvalu,TUV,Tuvalu
+3250.0,Reilly,221.0,Rabat,477.0,Rabat,MAR,Morocco
+3251.0,Bender,174.0,Mbabane,508.0,Mbabane,null,Swaziland
+3252.0,Moon,187.0,New Delhi,397.0,New Delhi,IND,India
+3253.0,Novak,129.0,Port Louis,342.0,Port Louis,MUS,Mauritius
+3254.0,Baxter,170.0,Baku,547.0,Baku,AZE,Azerbaijan
+3255.0,Hanna,253.0,Colombo; Sri Jayewardenepura Kotte (legislative),581.0,Colombo; Sri Jayewardenepura Kotte (legislative),LKA,Sri Lanka
+3256.0,Graham,287.0,Port-au-Prince,305.0,Port-au-Prince,HTI,Haiti
+3257.0,Cantrell,165.0,Berne,552.0,Berne,CHE,Switzerland
+3258.0,Fleming,248.0,Baku,556.0,Baku,AZE,Azerbaijan
+3259.0,Austin,189.0,Sao Tome,562.0,Sao Tome,STP,Sao Tome and Principe
+3260.0,Coleman,286.0,Banjul,416.0,Banjul,null,The Gambia
+3261.0,Collins,108.0,Antananarivo,439.0,Antananarivo,MDG,Madagascar
+3262.0,Blackburn,253.0,Abuja,576.0,Abuja,NGA,Nigeria
+3263.0,Cuevas,154.0,Moroni,406.0,Moroni,null,Comoros
+3264.0,Hunter,281.0,Port-au-Prince,517.0,Port-au-Prince,HTI,Haiti
+3265.0,Henson,194.0,Kiev,553.0,Kiev,UKR,Ukraine
+3266.0,Durham,148.0,London,325.0,London,null,United Kingdom
+3267.0,Padilla,243.0,"Korea, South",500.0,"Korea, South",null,"Korea, South"
+3268.0,Meadows,191.0,Abu Dhabi,403.0,Abu Dhabi,null,United Arab Emirates
+3269.0,Sloan,195.0,no official capital; government offices in Yaren District,358.0,no official capital; government offices in Yaren District,NRU,Nauru
+3270.0,Beard,225.0,Nay Pyi Taw,389.0,Nay Pyi Taw,null,Myanmar (Burma)
+3271.0,Pineda,111.0,Rome,327.0,Rome,ITA,Italy
+3272.0,Cox,119.0,Tirane,386.0,Tirane,ALB,Albania
+3273.0,Kramer,233.0,Mexico City,542.0,Mexico City,MEX,Mexico
+3274.0,Marsh,174.0,Rome,597.0,Rome,ITA,Italy
+3275.0,Gaines,218.0,Dili,578.0,Dili,null,East Timor (Timor-Leste)
+3276.0,Love,269.0,Phnom Penh,452.0,Phnom Penh,KHM,Cambodia
+3277.0,Ward,296.0,Tunis,472.0,Tunis,TUN,Tunisia
+3278.0,Matthews,198.0,Hanoi,513.0,Hanoi,null,Vietnam
+3279.0,Gallegos,111.0,Nassau,511.0,Nassau,null,The Bahamas
+3280.0,Mckenzie,196.0,"Korea, North",599.0,"Korea, North",null,"Korea, North"
+3281.0,Bridges,144.0,Yamoussoukro (official); Abidjan (de facto),512.0,Yamoussoukro (official); Abidjan (de facto),null,Cote d’Ivoire
+3282.0,Kane,282.0,Berlin,407.0,Berlin,DEU,Germany
+3283.0,Calderon,190.0,Nay Pyi Taw,560.0,Nay Pyi Taw,null,Myanmar (Burma)
+3284.0,Kline,284.0,Bridgetown,300.0,Bridgetown,BRB,Barbados
+3285.0,Proctor,222.0,Athens,327.0,Athens,GRC,Greece
+3286.0,Neal,129.0,Doha,348.0,Doha,QAT,Qatar
+3287.0,Branch,164.0,Belgrade,598.0,Belgrade,SRB,Serbia
+3288.0,Guerra,188.0,Port Louis,392.0,Port Louis,MUS,Mauritius
+3289.0,Hester,179.0,Zimbabwe,590.0,Zimbabwe,ZWE,Zimbabwe
+3290.0,Rowland,155.0,New Delhi,527.0,New Delhi,IND,India
+3291.0,Monroe,255.0,San Salvador,553.0,San Salvador,SLV,El Salvador
+3292.0,Boyd,210.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),553.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),ZAF,South Africa
+3293.0,Hancock,139.0,Gitega,333.0,Gitega,BDI,Burundi
+3294.0,Krause,276.0,Panama City,576.0,Panama City,PAN,Panama
+3295.0,Terrell,193.0,Roseau,522.0,Roseau,DMA,Dominica
+3296.0,Singh,265.0,"Korea, South",408.0,"Korea, South",null,"Korea, South"
+3297.0,Bartlett,168.0,"Korea, North",371.0,"Korea, North",null,"Korea, North"
+3298.0,Dunlap,190.0,Asmara,405.0,Asmara,ERI,Eritrea
+3299.0,Reese,263.0,Port-of-Spain,542.0,Port-of-Spain,TTO,Trinidad and Tobago
+3300.0,Richards,299.0,Monrovia,545.0,Monrovia,LBR,Liberia
+3301.0,Patrick,203.0,Victoria,316.0,Victoria,SYC,Seychelles
+3302.0,Orozco,273.0,Jakarta,416.0,Jakarta,IDN,Indonesia
+3303.0,Rojas,197.0,Dushanbe,331.0,Dushanbe,TJK,Tajikistan
+3304.0,Ortiz,237.0,Nuku’alofa,300.0,Nuku’alofa,TON,Tonga
+3305.0,Fischer,166.0,Sanaa,568.0,Sanaa,YEM,Yemen
+3306.0,Salazar,106.0,Abuja,564.0,Abuja,NGA,Nigeria
+3307.0,Collier,247.0,Honiara,549.0,Honiara,SLB,Solomon Islands
+3308.0,Salas,160.0,Panama City,371.0,Panama City,PAN,Panama
+3309.0,Carr,180.0,Sanaa,394.0,Sanaa,YEM,Yemen
+3310.0,Moran,177.0,Praia,416.0,Praia,null,Cape Verde
+3311.0,Downs,143.0,Saint George’s,520.0,Saint George’s,GRD,Grenada
+3312.0,Mercado,176.0,London,499.0,London,null,United Kingdom
+3313.0,Clayton,154.0,Cairo,506.0,Cairo,EGY,Egypt
+3314.0,Harding,241.0,Suva,361.0,Suva,FJI,Fiji
+3315.0,Welch,102.0,Paramaribo,482.0,Paramaribo,SUR,Suriname
+3316.0,Reyes,100.0,Ouagadougou,310.0,Ouagadougou,BFA,Burkina Faso
+3317.0,Joseph,232.0,Vatican City,475.0,Vatican City,null,Vatican City (Holy See)
+3318.0,Friedman,272.0,Panama City,504.0,Panama City,PAN,Panama
+3319.0,Hester,163.0,Juba,560.0,Juba,SSD,South Sudan
+3320.0,Villegas,109.0,Bishkek,395.0,Bishkek,KGZ,Kyrgyzstan
+3321.0,Farrell,204.0,Lusaka,480.0,Lusaka,ZMB,Zambia
+3322.0,Lyons,254.0,San Jose,314.0,San Jose,CRI,Costa Rica
+3323.0,Cooke,206.0,Antananarivo,543.0,Antananarivo,MDG,Madagascar
+3324.0,Holder,231.0,Conakry,484.0,Conakry,GIN,Guinea
+3325.0,Good,255.0,Paramaribo,505.0,Paramaribo,SUR,Suriname
+3326.0,Campbell,183.0,Ouagadougou,588.0,Ouagadougou,BFA,Burkina Faso
+3327.0,Whitaker,186.0,Mogadishu,536.0,Mogadishu,SOM,Somalia
+3328.0,Ali,170.0,Nay Pyi Taw,329.0,Nay Pyi Taw,null,Myanmar (Burma)
+3329.0,Ayala,238.0,"Korea, South",341.0,"Korea, South",null,"Korea, South"
+3330.0,Steele,273.0,Copenhagen,449.0,Copenhagen,DNK,Denmark
+3331.0,Durham,153.0,Cairo,444.0,Cairo,EGY,Egypt
+3332.0,Francis,261.0,Skopje,415.0,Skopje,null,Macedonia
+3333.0,Mosley,234.0,Montevideo,531.0,Montevideo,URY,Uruguay
+3334.0,Griffin,108.0,Belmopan,425.0,Belmopan,BLZ,Belize
+3335.0,Tapia,183.0,Tirane,542.0,Tirane,ALB,Albania
+3336.0,Waters,277.0,Baghdad,589.0,Baghdad,IRQ,Iraq
+3337.0,Davenport,101.0,San Jose,539.0,San Jose,CRI,Costa Rica
+3338.0,Sawyer,141.0,Caracas,318.0,Caracas,null,Venezuela
+3339.0,Montoya,229.0,Yerevan,581.0,Yerevan,ARM,Armenia
+3340.0,Garner,137.0,Abuja,470.0,Abuja,NGA,Nigeria
+3341.0,Duke,107.0,Sao Tome,438.0,Sao Tome,STP,Sao Tome and Principe
+3342.0,Cruz,108.0,"Micronesia, Federated States of",559.0,"Micronesia, Federated States of",null,"Micronesia, Federated States of"
+3343.0,Floyd,246.0,"Korea, South",313.0,"Korea, South",null,"Korea, South"
+3344.0,Little,219.0,Bucharest,386.0,Bucharest,ROU,Romania
+3345.0,Quinn,163.0,"Micronesia, Federated States of",386.0,"Micronesia, Federated States of",null,"Micronesia, Federated States of"
+3346.0,Ramirez,280.0,Malabo,331.0,Malabo,GNQ,Equatorial Guinea
+3347.0,Wells,294.0,Rabat,328.0,Rabat,MAR,Morocco
+3348.0,Ingram,202.0,Gitega,464.0,Gitega,BDI,Burundi
+3349.0,Harvey,129.0,Tashkent,572.0,Tashkent,UZB,Uzbekistan
+3350.0,Rodriguez,211.0,Tashkent,548.0,Tashkent,UZB,Uzbekistan
+3351.0,Donovan,122.0,Paramaribo,400.0,Paramaribo,SUR,Suriname
+3352.0,Walsh,265.0,Mexico City,461.0,Mexico City,MEX,Mexico
+3353.0,Mcgee,165.0,Khartoum,437.0,Khartoum,null,Sudan
+3354.0,Humphrey,198.0,Mbabane,583.0,Mbabane,null,Swaziland
+3355.0,Lloyd,140.0,Quito,357.0,Quito,ECU,Ecuador
+3356.0,Oconnell,201.0,Windhoek,459.0,Windhoek,NAM,Namibia
+3357.0,Chambers,287.0,Khartoum,499.0,Khartoum,null,Sudan
+3358.0,Bonilla,249.0,Dushanbe,500.0,Dushanbe,TJK,Tajikistan
+3359.0,Buckley,192.0,Baghdad,558.0,Baghdad,IRQ,Iraq
+3360.0,Munoz,141.0,Skopje,314.0,Skopje,null,Macedonia
+3361.0,Vargas,138.0,Palestine,544.0,Palestine,null,Palestine
+3362.0,Holden,229.0,Tripoli,340.0,Tripoli,LBY,Libya
+3363.0,Tucker,231.0,Victoria,355.0,Victoria,SYC,Seychelles
+3364.0,Bishop,150.0,Luanda,521.0,Luanda,AGO,Angola
+3365.0,Powers,147.0,Kingstown,376.0,Kingstown,VCT,Saint Vincent and the Grenadines
+3366.0,Conway,200.0,Dhaka,558.0,Dhaka,BGD,Bangladesh
+3367.0,Ellis,200.0,Male,362.0,Male,MDV,Maldives
+3368.0,Salinas,192.0,Kiev,549.0,Kiev,UKR,Ukraine
+3369.0,Swanson,240.0,Luxembourg,358.0,Luxembourg,LUX,Luxembourg
+3370.0,Nunez,177.0,Castries,444.0,Castries,LCA,Saint Lucia
+3371.0,Lucas,188.0,Ankara,317.0,Ankara,TUR,Turkey
+3372.0,Owen,155.0,Berne,460.0,Berne,CHE,Switzerland
+3373.0,Wolf,125.0,La Paz (administrative); Sucre (judicial),348.0,La Paz (administrative); Sucre (judicial),null,Bolivia
+3374.0,Moore,171.0,Port-Vila,401.0,Port-Vila,VUT,Vanuatu
+3375.0,Waller,186.0,Roseau,552.0,Roseau,DMA,Dominica
+3376.0,Mcguire,246.0,Sanaa,392.0,Sanaa,YEM,Yemen
+3377.0,Terrell,228.0,Melekeok,591.0,Melekeok,PLW,Palau
+3378.0,Leblanc,102.0,Ouagadougou,590.0,Ouagadougou,BFA,Burkina Faso
+3379.0,Stanley,153.0,Sarajevo,439.0,Sarajevo,BIH,Bosnia and Herzegovina
+3380.0,Webster,258.0,Bucharest,416.0,Bucharest,ROU,Romania
+3381.0,Sanders,155.0,Zimbabwe,347.0,Zimbabwe,ZWE,Zimbabwe
+3382.0,Mata,187.0,"Korea, North",358.0,"Korea, North",null,"Korea, North"
+3383.0,Farley,208.0,Washington D.C.,481.0,Washington D.C.,null,United States of America
+3384.0,Rodriguez,244.0,Canberra,550.0,Canberra,AUS,Australia
+3385.0,Nicholson,152.0,Ankara,526.0,Ankara,TUR,Turkey
+3386.0,Frost,149.0,Dushanbe,508.0,Dushanbe,TJK,Tajikistan
+3387.0,Farley,252.0,Kabul,563.0,Kabul,AFG,Afghanistan
+3388.0,Kelly,133.0,Bissau,573.0,Bissau,GNB,Guinea-Bissau
+3389.0,Reyes,114.0,Roseau,379.0,Roseau,DMA,Dominica
+3390.0,Camacho,284.0,Helsinki,422.0,Helsinki,FIN,Finland
+3391.0,Scott,189.0,Thimphu,308.0,Thimphu,BTN,Bhutan
+3392.0,Hancock,109.0,Khartoum,498.0,Khartoum,null,Sudan
+3393.0,Orozco,269.0,Tuvalu,303.0,Tuvalu,TUV,Tuvalu
+3394.0,Patrick,241.0,San Salvador,581.0,San Salvador,SLV,El Salvador
+3395.0,Estrada,195.0,Yamoussoukro (official); Abidjan (de facto),587.0,Yamoussoukro (official); Abidjan (de facto),null,Cote d’Ivoire
+3396.0,Daugherty,275.0,Havana,540.0,Havana,CUB,Cuba
+3397.0,Lin,264.0,Djibouti,336.0,Djibouti,DJI,Djibouti
+3398.0,Cruz,177.0,Brussels,526.0,Brussels,BEL,Belgium
+3399.0,Wang,219.0,Ottawa,448.0,Ottawa,CAN,Canada
+3400.0,Holland,226.0,Yamoussoukro (official); Abidjan (de facto),381.0,Yamoussoukro (official); Abidjan (de facto),null,Cote d’Ivoire
+3401.0,Arnold,268.0,Guatemala City,483.0,Guatemala City,GTM,Guatemala
+3402.0,Huang,240.0,Vilnius,536.0,Vilnius,LTU,Lithuania
+3403.0,Buckley,271.0,Vaduz,409.0,Vaduz,LIE,Liechtenstein
+3404.0,Holloway,149.0,Palestine,503.0,Palestine,null,Palestine
+3405.0,Olson,145.0,Asuncion,389.0,Asuncion,PRY,Paraguay
+3406.0,Krause,248.0,Islamabad,552.0,Islamabad,PAK,Pakistan
+3407.0,Salas,147.0,Tallinn,529.0,Tallinn,EST,Estonia
+3408.0,Dougherty,114.0,Moroni,520.0,Moroni,null,Comoros
+3409.0,Stevens,251.0,Guatemala City,496.0,Guatemala City,GTM,Guatemala
+3410.0,Barron,136.0,Tarawa Atoll,598.0,Tarawa Atoll,KIR,Kiribati
+3411.0,Munoz,236.0,Brazzaville,525.0,Brazzaville,null,Republic of the Congo
+3412.0,Mack,296.0,Gaborone,333.0,Gaborone,BWA,Botswana
+3413.0,Solis,242.0,Bratislava,531.0,Bratislava,SVK,Slovakia
+3414.0,Carroll,231.0,Podgorica,518.0,Podgorica,MNE,Montenegro
+3415.0,Mcbride,140.0,Vientiane,468.0,Vientiane,null,Laos
+3416.0,Perry,242.0,Bandar Seri Begawan,411.0,Bandar Seri Begawan,null,Brunei
+3417.0,Morrison,249.0,Hanoi,310.0,Hanoi,null,Vietnam
+3418.0,Li,262.0,Nay Pyi Taw,442.0,Nay Pyi Taw,null,Myanmar (Burma)
+3419.0,Ball,225.0,Saint John’s,418.0,Saint John’s,ATG,Antigua and Barbuda
+3420.0,Winters,144.0,Asmara,380.0,Asmara,ERI,Eritrea
+3421.0,Lamb,143.0,Nay Pyi Taw,412.0,Nay Pyi Taw,null,Myanmar (Burma)
+3422.0,Lucas,240.0,Amsterdam; The Hague (seat of government),308.0,Amsterdam; The Hague (seat of government),null,Netherlands
+3423.0,Lane,193.0,Canberra,355.0,Canberra,AUS,Australia
+3424.0,Bates,221.0,Roseau,399.0,Roseau,DMA,Dominica
+3425.0,Stout,131.0,Brazzaville,362.0,Brazzaville,null,Republic of the Congo
+3426.0,Arellano,281.0,Luanda,522.0,Luanda,AGO,Angola
+3427.0,Reese,221.0,Riga,335.0,Riga,LVA,Latvia
+3428.0,Hurley,143.0,Hanoi,526.0,Hanoi,null,Vietnam
+3429.0,Best,122.0,San Marino,462.0,San Marino,SMR,San Marino
+3430.0,Chung,171.0,Gaborone,332.0,Gaborone,BWA,Botswana
+3431.0,Mosley,169.0,Muscat,415.0,Muscat,OMN,Oman
+3432.0,Mullen,161.0,Andorra la Vella,554.0,Andorra la Vella,AND,Andorra
+3433.0,Gaines,159.0,Melekeok,505.0,Melekeok,PLW,Palau
+3434.0,Drake,102.0,Amsterdam; The Hague (seat of government),402.0,Amsterdam; The Hague (seat of government),null,Netherlands
+3435.0,Blair,149.0,Freetown,571.0,Freetown,SLE,Sierra Leone
+3436.0,Dillon,261.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),367.0,Pretoria (administrative); Cape Town (legislative); Bloemfontein (judiciary),ZAF,South Africa
+3437.0,Thompson,212.0,Monte Carlo,406.0,Monte Carlo,MCO,Monaco
+3438.0,Valentine,202.0,Accra,329.0,Accra,GHA,Ghana
+3439.0,Barnett,231.0,Sarajevo,408.0,Sarajevo,BIH,Bosnia and Herzegovina
+3440.0,Alvarado,277.0,Basseterre,510.0,Basseterre,KNA,Saint Kitts and Nevis
+3441.0,Haynes,106.0,Paramaribo,353.0,Paramaribo,SUR,Suriname
+3442.0,Frey,249.0,Dili,482.0,Dili,null,East Timor (Timor-Leste)
+3443.0,Marks,292.0,Bamako,467.0,Bamako,MLI,Mali
+3444.0,Morrow,277.0,Ljubljana,386.0,Ljubljana,SVN,Slovenia
+3445.0,Mahoney,267.0,Lome,494.0,Lome,TGO,Togo
+3446.0,Wyatt,108.0,Tunis,307.0,Tunis,TUN,Tunisia
+3447.0,Carey,124.0,"Korea, South",421.0,"Korea, South",null,"Korea, South"
+3448.0,Cantu,102.0,Bangui,424.0,Bangui,null,Central African Republic
+3449.0,Leonard,263.0,Banjul,349.0,Banjul,null,The Gambia
+3450.0,Giles,264.0,Accra,571.0,Accra,GHA,Ghana
+3451.0,Carlson,100.0,Canberra,425.0,Canberra,AUS,Australia
+3452.0,Wang,152.0,Honiara,369.0,Honiara,SLB,Solomon Islands
+3453.0,Whitney,272.0,Bangui,362.0,Bangui,null,Central African Republic
+3454.0,Walker,277.0,Ottawa,513.0,Ottawa,CAN,Canada
+3455.0,Wiley,204.0,Melekeok,437.0,Melekeok,PLW,Palau
+3456.0,Crosby,111.0,Bucharest,501.0,Bucharest,ROU,Romania
+3457.0,Clay,134.0,Paramaribo,384.0,Paramaribo,SUR,Suriname
+3458.0,Hill,184.0,Monrovia,560.0,Monrovia,LBR,Liberia
+3459.0,Andrews,287.0,Zagreb,547.0,Zagreb,HRV,Croatia
+3460.0,Rich,122.0,San Salvador,363.0,San Salvador,SLV,El Salvador
+3461.0,Brown,237.0,Guatemala City,372.0,Guatemala City,GTM,Guatemala
+3462.0,Petersen,246.0,Buenos Aires,338.0,Buenos Aires,ARG,Argentina
+3463.0,Preston,140.0,Port-of-Spain,501.0,Port-of-Spain,TTO,Trinidad and Tobago
+3464.0,Mcguire,177.0,Bandar Seri Begawan,331.0,Bandar Seri Begawan,null,Brunei
+3465.0,Guerra,103.0,Gitega,487.0,Gitega,BDI,Burundi
+3466.0,Eaton,159.0,Bangkok,356.0,Bangkok,THA,Thailand
+3467.0,Ayers,262.0,Port-of-Spain,368.0,Port-of-Spain,TTO,Trinidad and Tobago
+3468.0,Turner,127.0,Taipei,490.0,Taipei,null,Taiwan
+3469.0,Dougherty,183.0,Kiev,592.0,Kiev,UKR,Ukraine
+3470.0,Vaughan,115.0,Victoria,478.0,Victoria,SYC,Seychelles
+3471.0,Wade,254.0,Colombo; Sri Jayewardenepura Kotte (legislative),536.0,Colombo; Sri Jayewardenepura Kotte (legislative),LKA,Sri Lanka
+3472.0,Villegas,196.0,Colombo; Sri Jayewardenepura Kotte (legislative),436.0,Colombo; Sri Jayewardenepura Kotte (legislative),LKA,Sri Lanka
+3473.0,Houston,292.0,Budapest,558.0,Budapest,HUN,Hungary
+3474.0,Hunter,255.0,Abuja,318.0,Abuja,NGA,Nigeria
+3475.0,Horton,190.0,Canberra,597.0,Canberra,AUS,Australia
+3476.0,Logan,250.0,Hanoi,324.0,Hanoi,null,Vietnam
+3477.0,Vaughan,224.0,Dili,466.0,Dili,null,East Timor (Timor-Leste)
+3478.0,Patterson,270.0,Mbabane,319.0,Mbabane,null,Swaziland
+3479.0,Krueger,178.0,Maputo,566.0,Maputo,MOZ,Mozambique
+3480.0,Stephenson,280.0,Basseterre,322.0,Basseterre,KNA,Saint Kitts and Nevis
+3481.0,Harper,114.0,Lisbon,432.0,Lisbon,PRT,Portugal
+3482.0,Carson,214.0,Saint George’s,502.0,Saint George’s,GRD,Grenada
+3483.0,Glenn,148.0,Dhaka,453.0,Dhaka,BGD,Bangladesh
+3484.0,Sloan,290.0,Copenhagen,478.0,Copenhagen,DNK,Denmark
+3485.0,Ray,285.0,Majuro,525.0,Majuro,null,Marshall Islands
+3486.0,Vang,108.0,Saint George’s,436.0,Saint George’s,GRD,Grenada
+3487.0,Hudson,110.0,Niamey,422.0,Niamey,null,Niger
+3488.0,Bradshaw,240.0,Belmopan,370.0,Belmopan,BLZ,Belize
+3489.0,Webster,152.0,Bandar Seri Begawan,510.0,Bandar Seri Begawan,null,Brunei
+3490.0,Parker,218.0,Dakar,474.0,Dakar,SEN,Senegal
+3491.0,Branch,248.0,Basseterre,305.0,Basseterre,KNA,Saint Kitts and Nevis
+3492.0,Horne,284.0,Riga,572.0,Riga,LVA,Latvia
+3493.0,Norton,141.0,Nairobi,395.0,Nairobi,KEN,Kenya
+3494.0,Maldonado,147.0,Tunis,306.0,Tunis,TUN,Tunisia
+3495.0,Nash,147.0,Stockholm,386.0,Stockholm,SWE,Sweden
+3496.0,Byrd,258.0,Yerevan,471.0,Yerevan,ARM,Armenia
+3497.0,Lawrence,197.0,San Jose,363.0,San Jose,CRI,Costa Rica
+3498.0,Callahan,240.0,Dakar,503.0,Dakar,SEN,Senegal
+3499.0,Chung,267.0,Saint John’s,380.0,Saint John’s,ATG,Antigua and Barbuda
+3500.0,Serrano,258.0,Mexico City,420.0,Mexico City,MEX,Mexico
+3501.0,Hartman,237.0,"Korea, North",575.0,"Korea, North",null,"Korea, North"
+3502.0,Harper,279.0,Podgorica,571.0,Podgorica,MNE,Montenegro
+3503.0,Humphrey,108.0,Port-of-Spain,579.0,Port-of-Spain,TTO,Trinidad and Tobago
+3504.0,Cole,178.0,Thimphu,582.0,Thimphu,BTN,Bhutan
+3505.0,Moran,293.0,Wellington,440.0,Wellington,NZL,New Zealand
+3506.0,Ortiz,184.0,Vilnius,538.0,Vilnius,LTU,Lithuania
+3507.0,Valentine,159.0,Algiers,382.0,Algiers,DZA,Algeria
+3508.0,Gillespie,132.0,Warsaw,439.0,Warsaw,POL,Poland
+3509.0,Schmitt,186.0,Brasilia,326.0,Brasilia,BRA,Brazil
+3510.0,Hull,127.0,"Congo, Democratic Republic of the",405.0,"Congo, Democratic Republic of the",null,"Congo, Democratic Republic of the"
+3511.0,Huerta,236.0,Rome,360.0,Rome,ITA,Italy
+3512.0,Glover,216.0,Manama,325.0,Manama,BHR,Bahrain
+3513.0,Sandoval,178.0,Sanaa,319.0,Sanaa,YEM,Yemen
+3514.0,Peck,299.0,"Korea, South",488.0,"Korea, South",null,"Korea, South"
+3515.0,Escobar,209.0,Victoria,375.0,Victoria,SYC,Seychelles
+3516.0,Fitzgerald,163.0,Moscow,383.0,Moscow,null,Russia
+3517.0,Fisher,138.0,Tehran,555.0,Tehran,null,Iran
+3518.0,Neal,220.0,Abu Dhabi,516.0,Abu Dhabi,null,United Arab Emirates
+3519.0,Wilcox,214.0,Juba,459.0,Juba,SSD,South Sudan
+3520.0,Mcintosh,153.0,Ouagadougou,514.0,Ouagadougou,BFA,Burkina Faso
+3521.0,Campbell,111.0,Banjul,350.0,Banjul,null,The Gambia
+3522.0,Mason,134.0,Ljubljana,376.0,Ljubljana,SVN,Slovenia
+3523.0,Schwartz,147.0,Monte Carlo,518.0,Monte Carlo,MCO,Monaco
+3524.0,Hernandez,135.0,Port-au-Prince,507.0,Port-au-Prince,HTI,Haiti
+3525.0,Petersen,223.0,Tunis,442.0,Tunis,TUN,Tunisia
+3526.0,Porter,137.0,Port Louis,594.0,Port Louis,MUS,Mauritius
+3527.0,Gonzalez,169.0,Oslo,367.0,Oslo,NOR,Norway
+3528.0,Fowler,165.0,Madrid,305.0,Madrid,ESP,Spain
+3529.0,Mccoy,255.0,Yaounde,501.0,Yaounde,CMR,Cameroon
+3530.0,Goodwin,221.0,Kingston,375.0,Kingston,JAM,Jamaica
+3531.0,Choi,181.0,N’Djamena,549.0,N’Djamena,TCD,Chad
+3532.0,Abbott,111.0,Castries,525.0,Castries,LCA,Saint Lucia
+3533.0,Mcneil,139.0,San Salvador,393.0,San Salvador,SLV,El Salvador
+3534.0,Barron,103.0,Dili,348.0,Dili,null,East Timor (Timor-Leste)
+3535.0,Martin,115.0,Monrovia,389.0,Monrovia,LBR,Liberia
+3536.0,Waller,108.0,Tallinn,538.0,Tallinn,EST,Estonia
+3537.0,Stanley,189.0,Lima,392.0,Lima,PER,Peru
+3538.0,Macias,136.0,Sanaa,542.0,Sanaa,YEM,Yemen
+3539.0,Humphrey,123.0,Honiara,356.0,Honiara,SLB,Solomon Islands
+3540.0,Gillespie,176.0,Male,568.0,Male,MDV,Maldives
+3541.0,Harrison,229.0,Male,476.0,Male,MDV,Maldives
+3542.0,Roach,134.0,Nuku’alofa,374.0,Nuku’alofa,TON,Tonga
+3543.0,Walls,193.0,Port-au-Prince,361.0,Port-au-Prince,HTI,Haiti
+3544.0,Stafford,195.0,Tegucigalpa,557.0,Tegucigalpa,HND,Honduras
+3545.0,Meza,176.0,Vienna,434.0,Vienna,AUT,Austria
+3546.0,Phelps,195.0,Luanda,425.0,Luanda,AGO,Angola
+3547.0,Mckay,291.0,Phnom Penh,325.0,Phnom Penh,KHM,Cambodia
+3548.0,Crane,243.0,Conakry,385.0,Conakry,GIN,Guinea
+3549.0,Whitaker,219.0,Basseterre,541.0,Basseterre,KNA,Saint Kitts and Nevis
+3550.0,Sanchez,254.0,Stockholm,319.0,Stockholm,SWE,Sweden
+3551.0,Sullivan,163.0,Muscat,453.0,Muscat,OMN,Oman
+3552.0,Meyer,126.0,Reykjavik,439.0,Reykjavik,ISL,Iceland
+3553.0,Owen,263.0,San Jose,322.0,San Jose,CRI,Costa Rica
+3554.0,Vazquez,158.0,Lome,551.0,Lome,TGO,Togo
+3555.0,Garrett,138.0,Dakar,473.0,Dakar,SEN,Senegal
+3556.0,Brock,258.0,Rome,573.0,Rome,ITA,Italy
+3557.0,Bartlett,139.0,Bridgetown,422.0,Bridgetown,BRB,Barbados
+3558.0,Atkinson,252.0,Port-au-Prince,317.0,Port-au-Prince,HTI,Haiti
+3559.0,Cunningham,111.0,Zagreb,340.0,Zagreb,HRV,Croatia
+3560.0,Khan,156.0,Suva,416.0,Suva,FJI,Fiji
+3561.0,Hughes,234.0,Dakar,418.0,Dakar,SEN,Senegal
+3562.0,Travis,131.0,Suva,320.0,Suva,FJI,Fiji
+3563.0,Erickson,141.0,Tuvalu,438.0,Tuvalu,TUV,Tuvalu
+3564.0,Yoder,213.0,San Jose,518.0,San Jose,CRI,Costa Rica
+3565.0,Kaufman,252.0,Helsinki,304.0,Helsinki,FIN,Finland
+3566.0,Pena,234.0,Brussels,336.0,Brussels,BEL,Belgium
+3567.0,Small,144.0,San Marino,391.0,San Marino,SMR,San Marino
+3568.0,Macias,262.0,Niamey,392.0,Niamey,null,Niger
+3569.0,Suarez,270.0,Freetown,523.0,Freetown,SLE,Sierra Leone
+3570.0,Shannon,204.0,Tegucigalpa,436.0,Tegucigalpa,HND,Honduras
+3571.0,Burgess,107.0,Saint John’s,445.0,Saint John’s,ATG,Antigua and Barbuda
+3572.0,Dickson,246.0,Asuncion,436.0,Asuncion,PRY,Paraguay
+3573.0,Poole,141.0,Port-Vila,573.0,Port-Vila,VUT,Vanuatu
+3574.0,Maddox,250.0,Tunis,449.0,Tunis,TUN,Tunisia
+3575.0,Johnson,277.0,Quito,478.0,Quito,ECU,Ecuador
+3576.0,Walton,204.0,Lilongwe,578.0,Lilongwe,MWI,Malawi
+3577.0,Pratt,289.0,Niamey,493.0,Niamey,null,Niger
+3578.0,Ibarra,189.0,Wellington,347.0,Wellington,NZL,New Zealand
+3579.0,Key,235.0,Taipei,562.0,Taipei,null,Taiwan
+3580.0,Howe,183.0,Taipei,563.0,Taipei,null,Taiwan
+3581.0,Olsen,193.0,Valletta,328.0,Valletta,MLT,Malta
+3582.0,Mills,125.0,Malabo,556.0,Malabo,GNQ,Equatorial Guinea
+3583.0,Jennings,213.0,Ashgabat,351.0,Ashgabat,TKM,Turkmenistan
+3584.0,Oconnell,272.0,Monte Carlo,435.0,Monte Carlo,MCO,Monaco
+3585.0,Choi,290.0,Bogota,530.0,Bogota,COL,Colombia
+3586.0,Jennings,169.0,Victoria,562.0,Victoria,SYC,Seychelles
+3587.0,Trevino,227.0,Brazzaville,388.0,Brazzaville,null,Republic of the Congo
+3588.0,Henderson,260.0,Belmopan,373.0,Belmopan,BLZ,Belize
+3589.0,Hess,189.0,Juba,456.0,Juba,SSD,South Sudan
+3590.0,Lynch,250.0,Vaduz,371.0,Vaduz,LIE,Liechtenstein
+3591.0,Campbell,142.0,Skopje,479.0,Skopje,null,Macedonia
+3592.0,Dunlap,268.0,Manila,340.0,Manila,null,Philippines
+3593.0,Macias,133.0,Bamako,419.0,Bamako,MLI,Mali
+3594.0,Velazquez,102.0,Lima,513.0,Lima,PER,Peru
+3595.0,Guerrero,187.0,Vilnius,494.0,Vilnius,LTU,Lithuania
+3596.0,Walter,180.0,Santiago,401.0,Santiago,CHL,Chile
+3597.0,Grant,133.0,Moscow,571.0,Moscow,null,Russia
+3598.0,Cohen,278.0,Stockholm,384.0,Stockholm,SWE,Sweden
+3599.0,Christensen,169.0,Damascus,594.0,Damascus,null,Syria
+3600.0,Howell,211.0,Dhaka,331.0,Dhaka,BGD,Bangladesh

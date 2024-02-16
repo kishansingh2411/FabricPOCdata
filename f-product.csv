@@ -1,151 +1,1501 @@
 ProductID,ProductName,ProductDesc,ProductCost
-1001.0,Cotton,Comfortable,7602.0
-1002.0,Linen,Gold Finish,2200.0
-1003.0,Polycotton,Gold Finish,9114.0
-1004.0,Lycra,Breathable,8609.0
-1005.0,Polyester,Breathable,4930.0
-1006.0,Silk,Breathable,7375.0
-1007.0,Cotton,High Quality,1877.0
-1008.0,Linen,Breathable,7400.0
-1009.0,Polycotton,Breathable,8894.0
-1010.0,Lycra,High Quality,9231.0
-1011.0,Polyester,Comfortable,7951.0
-1012.0,Silk,Gold Finish,3674.0
-1013.0,Cotton,Comfortable,5671.0
-1014.0,Linen,Breathable,7197.0
-1015.0,Polycotton,Breathable,9064.0
-1016.0,Lycra,Breathable,2566.0
-1017.0,Polyester,Breathable,3879.0
-1018.0,Silk,High Quality,2445.0
-1019.0,Cotton,Breathable,5603.0
-1020.0,Linen,Breathable,6294.0
-1021.0,Polycotton,Comfortable,3326.0
-1022.0,Lycra,Breathable,1005.0
-1023.0,Polyester,Gold Finish,2351.0
-1024.0,Silk,Gold Finish,7355.0
-1025.0,Cotton,Breathable,6998.0
-1026.0,Linen,High Quality,9928.0
-1027.0,Polycotton,High Quality,1687.0
-1028.0,Lycra,High Quality,7753.0
-1029.0,Polyester,Gold Finish,5515.0
-1030.0,Silk,Comfortable,8858.0
-1031.0,Cotton,Comfortable,4170.0
-1032.0,Linen,Gold Finish,9564.0
-1033.0,Polycotton,Breathable,9801.0
-1034.0,Lycra,Breathable,6990.0
-1035.0,Polyester,Gold Finish,5746.0
-1036.0,Silk,High Quality,8999.0
-1037.0,Cotton,High Quality,9805.0
-1038.0,Linen,Comfortable,7634.0
-1039.0,Polycotton,Gold Finish,6272.0
-1040.0,Lycra,Comfortable,2662.0
-1041.0,Polyester,Gold Finish,7839.0
-1042.0,Silk,Breathable,9789.0
-1043.0,Cotton,Breathable,3248.0
-1044.0,Linen,Comfortable,2425.0
-1045.0,Polycotton,Comfortable,9379.0
-1046.0,Lycra,Comfortable,1583.0
-1047.0,Polyester,High Quality,2258.0
-1048.0,Silk,Comfortable,8129.0
-1049.0,Cotton,Gold Finish,2953.0
-1050.0,Linen,Breathable,2935.0
-1051.0,Polycotton,Breathable,2039.0
-1052.0,Lycra,High Quality,1425.0
-1053.0,Polyester,Comfortable,7268.0
-1054.0,Silk,Gold Finish,5843.0
-1055.0,Cotton,Gold Finish,8743.0
-1056.0,Linen,High Quality,9867.0
-1057.0,Polycotton,Comfortable,7488.0
-1058.0,Lycra,Comfortable,1523.0
-1059.0,Polyester,Breathable,5635.0
-1060.0,Silk,Gold Finish,9112.0
-1061.0,Cotton,Comfortable,8894.0
-1062.0,Linen,Gold Finish,6984.0
-1063.0,Polycotton,Comfortable,4976.0
-1064.0,Lycra,Gold Finish,5331.0
-1065.0,Polyester,Gold Finish,6198.0
-1066.0,Silk,Gold Finish,3942.0
-1067.0,Cotton,Gold Finish,3127.0
-1068.0,Linen,Gold Finish,9151.0
-1069.0,Polycotton,Comfortable,9648.0
-1070.0,Lycra,Comfortable,7711.0
-1071.0,Polyester,Comfortable,5458.0
-1072.0,Silk,Gold Finish,7776.0
-1073.0,Cotton,High Quality,9205.0
-1074.0,Linen,High Quality,9749.0
-1075.0,Polycotton,High Quality,3354.0
-1076.0,Lycra,High Quality,1638.0
-1077.0,Polyester,Comfortable,6287.0
-1078.0,Silk,Breathable,6692.0
-1079.0,Cotton,High Quality,7756.0
-1080.0,Linen,Comfortable,9261.0
-1081.0,Polycotton,Comfortable,8519.0
-1082.0,Lycra,High Quality,9659.0
-1083.0,Polyester,Gold Finish,9272.0
-1084.0,Silk,Gold Finish,6616.0
-1085.0,Cotton,High Quality,4019.0
-1086.0,Linen,High Quality,2375.0
-1087.0,Polycotton,Gold Finish,3215.0
-1088.0,Lycra,High Quality,3812.0
-1089.0,Polyester,Comfortable,4883.0
-1090.0,Silk,Gold Finish,9958.0
-1091.0,Cotton,Gold Finish,1774.0
-1092.0,Linen,Breathable,9302.0
-1093.0,Polycotton,Comfortable,2916.0
-1094.0,Lycra,Gold Finish,3687.0
-1095.0,Polyester,High Quality,2710.0
-1096.0,Silk,High Quality,6408.0
-1097.0,Cotton,Gold Finish,6043.0
-1098.0,Linen,Gold Finish,5469.0
-1099.0,Polycotton,Breathable,4487.0
-1100.0,Lycra,Breathable,9475.0
-1101.0,Polyester,High Quality,6989.0
-1102.0,Silk,Comfortable,6289.0
-1103.0,Cotton,High Quality,9214.0
-1104.0,Linen,Breathable,9645.0
-1105.0,Polycotton,Gold Finish,8353.0
-1106.0,Lycra,Comfortable,2730.0
-1107.0,Polyester,Breathable,2390.0
-1108.0,Silk,Comfortable,5208.0
-1109.0,Cotton,Comfortable,9696.0
-1110.0,Linen,High Quality,6592.0
-1111.0,Polycotton,Gold Finish,2669.0
-1112.0,Lycra,High Quality,4027.0
-1113.0,Polyester,Gold Finish,3302.0
-1114.0,Silk,Comfortable,8227.0
-1115.0,Cotton,High Quality,1625.0
-1116.0,Linen,High Quality,1105.0
-1117.0,Polycotton,High Quality,1796.0
-1118.0,Lycra,Comfortable,8310.0
-1119.0,Polyester,Comfortable,4579.0
-1120.0,Silk,High Quality,9224.0
-1121.0,Cotton,Gold Finish,6119.0
-1122.0,Linen,Comfortable,9993.0
-1123.0,Polycotton,High Quality,3977.0
-1124.0,Lycra,Gold Finish,4650.0
-1125.0,Polyester,High Quality,9705.0
-1126.0,Silk,Gold Finish,4940.0
-1127.0,Cotton,Gold Finish,1131.0
-1128.0,Linen,High Quality,1884.0
-1129.0,Polycotton,Comfortable,1661.0
-1130.0,Lycra,Comfortable,9754.0
-1131.0,Polyester,Comfortable,7523.0
-1132.0,Silk,Comfortable,5681.0
-1133.0,Cotton,Comfortable,1166.0
-1134.0,Linen,Gold Finish,2726.0
-1135.0,Polycotton,Gold Finish,2427.0
-1136.0,Lycra,Breathable,8834.0
-1137.0,Polyester,Breathable,1530.0
-1138.0,Silk,Gold Finish,5434.0
-1139.0,Cotton,Comfortable,4309.0
-1140.0,Linen,Gold Finish,5359.0
-1141.0,Polycotton,Comfortable,8034.0
-1142.0,Lycra,Comfortable,3282.0
-1143.0,Polyester,Gold Finish,6931.0
-1144.0,Silk,Comfortable,4169.0
-1145.0,Cotton,High Quality,6077.0
-1146.0,Linen,Breathable,3603.0
-1147.0,Polycotton,Gold Finish,3211.0
-1148.0,Lycra,Breathable,8167.0
-1149.0,Polyester,High Quality,8405.0
-1150.0,Silk,Gold Finish,5271.0
+101.0,Muslin,Rugs and carpets.,79968.0
+102.0,Linen,Rugs and carpets.,1279.0
+103.0,Rayon,Geotextiles,2247.0
+104.0,Wool,Nets,49818.0
+105.0,Satin,Nets,882.0
+106.0,Muslin,kites,24560.0
+107.0,Muslin,sails,45383.0
+108.0,Muslin,sails,96994.0
+109.0,Silk,Rugs and carpets.,34167.0
+110.0,Polyester,Bags and other means of carrying objects,1374.0
+111.0,Cotton,Bags and other means of carrying objects,7702.0
+112.0,Muslin,Earlier aero planes used cloth,62216.0
+113.0,Muslin,Rugs and carpets.,53420.0
+114.0,Linen,Balloons,36505.0
+115.0,Cotton,Bags and other means of carrying objects,40882.0
+116.0,Wool,Furnishings and other home accessories,23887.0
+117.0,Satin,Balloons,82902.0
+118.0,Wool,parachutes,64393.0
+119.0,Polyester,kites,23875.0
+120.0,Cotton,Industrial and scientific uses,53454.0
+121.0,Wool,Furnishings and other home accessories,80398.0
+122.0,Wool,Bags and other means of carrying objects,24648.0
+123.0,Wool,Geotextiles,51413.0
+124.0,Silk,Flags,21248.0
+125.0,Muslin,Rugs and carpets.,58363.0
+126.0,Wool,Bags and other means of carrying objects,76337.0
+127.0,Polyester,Nets,10103.0
+128.0,Silk,Bags and other means of carrying objects,8688.0
+129.0,Silk,Earlier aero planes used cloth,72179.0
+130.0,Satin,Rugs and carpets.,90725.0
+131.0,Silk,Nets,70095.0
+132.0,Cotton,parachutes,90730.0
+133.0,Polyester,Bags and other means of carrying objects,40309.0
+134.0,Linen,Nets,69451.0
+135.0,Polyester,Clothing,12909.0
+136.0,Cotton,Furnishings and other home accessories,76523.0
+137.0,Linen,parachutes,38596.0
+138.0,Silk,Clothing,22804.0
+139.0,Muslin,Rugs and carpets.,87763.0
+140.0,Silk,Balloons,63393.0
+141.0,Cotton,sails,2758.0
+142.0,Polyester,Furnishings and other home accessories,48064.0
+143.0,Cotton,kites,50377.0
+144.0,Linen,Geotextiles,130.0
+145.0,Cotton,sails,42154.0
+146.0,Linen,Clothing,96732.0
+147.0,Rayon,Industrial and scientific uses,52583.0
+148.0,Satin,parachutes,55110.0
+149.0,Polyester,Clothing,30210.0
+150.0,Linen,Geotextiles,24800.0
+151.0,Satin,Flags,41093.0
+152.0,Linen,sails,71223.0
+153.0,Rayon,Earlier aero planes used cloth,59357.0
+154.0,Cotton,kites,9627.0
+155.0,Polyester,parachutes,71935.0
+156.0,Silk,Earlier aero planes used cloth,75493.0
+157.0,Linen,kites,4496.0
+158.0,Cotton,Rugs and carpets.,2923.0
+159.0,Cotton,sails,5858.0
+160.0,Satin,kites,17818.0
+161.0,Cotton,sails,789.0
+162.0,Linen,Nets,19766.0
+163.0,Silk,parachutes,99019.0
+164.0,Linen,Clothing,97186.0
+165.0,Satin,Flags,98275.0
+166.0,Silk,Flags,56815.0
+167.0,Muslin,Rugs and carpets.,38553.0
+168.0,Satin,kites,88657.0
+169.0,Cotton,sails,80956.0
+170.0,Silk,Balloons,67188.0
+171.0,Muslin,Furnishings and other home accessories,66295.0
+172.0,Cotton,parachutes,48277.0
+173.0,Silk,Nets,88842.0
+174.0,Muslin,kites,9637.0
+175.0,Polyester,Bags and other means of carrying objects,49668.0
+176.0,Linen,sails,74586.0
+177.0,Satin,Furnishings and other home accessories,39723.0
+178.0,Muslin,Geotextiles,22496.0
+179.0,Cotton,kites,31908.0
+180.0,Muslin,Bags and other means of carrying objects,64696.0
+181.0,Wool,Earlier aero planes used cloth,71801.0
+182.0,Rayon,Nets,40465.0
+183.0,Muslin,kites,74048.0
+184.0,Satin,parachutes,914.0
+185.0,Muslin,Geotextiles,35686.0
+186.0,Cotton,Geotextiles,66840.0
+187.0,Muslin,Furnishings and other home accessories,83061.0
+188.0,Polyester,Industrial and scientific uses,54375.0
+189.0,Muslin,parachutes,84328.0
+190.0,Silk,Nets,50868.0
+191.0,Rayon,Balloons,41694.0
+192.0,Polyester,Bags and other means of carrying objects,24130.0
+193.0,Polyester,Earlier aero planes used cloth,74053.0
+194.0,Silk,Industrial and scientific uses,52082.0
+195.0,Polyester,Industrial and scientific uses,28662.0
+196.0,Linen,Flags,57107.0
+197.0,Muslin,Bags and other means of carrying objects,41425.0
+198.0,Silk,sails,17017.0
+199.0,Silk,Clothing,47901.0
+200.0,Wool,Industrial and scientific uses,89294.0
+201.0,Muslin,parachutes,35269.0
+202.0,Satin,Earlier aero planes used cloth,15442.0
+203.0,Polyester,Rugs and carpets.,47083.0
+204.0,Muslin,Earlier aero planes used cloth,1223.0
+205.0,Satin,Balloons,77570.0
+206.0,Linen,Bags and other means of carrying objects,92968.0
+207.0,Cotton,kites,52525.0
+208.0,Muslin,Bags and other means of carrying objects,98191.0
+209.0,Polyester,Clothing,42351.0
+210.0,Cotton,Balloons,73469.0
+211.0,Silk,Bags and other means of carrying objects,15321.0
+212.0,Muslin,Rugs and carpets.,61561.0
+213.0,Polyester,Clothing,12288.0
+214.0,Cotton,Geotextiles,60567.0
+215.0,Cotton,Flags,55809.0
+216.0,Cotton,Flags,36821.0
+217.0,Silk,Furnishings and other home accessories,94656.0
+218.0,Silk,Bags and other means of carrying objects,359.0
+219.0,Silk,sails,14683.0
+220.0,Cotton,parachutes,88012.0
+221.0,Rayon,Furnishings and other home accessories,98986.0
+222.0,Linen,Geotextiles,91232.0
+223.0,Cotton,Geotextiles,18558.0
+224.0,Silk,Rugs and carpets.,34463.0
+225.0,Satin,Nets,25655.0
+226.0,Rayon,Geotextiles,30033.0
+227.0,Wool,Industrial and scientific uses,55639.0
+228.0,Rayon,parachutes,65361.0
+229.0,Polyester,Flags,26551.0
+230.0,Wool,Earlier aero planes used cloth,3317.0
+231.0,Polyester,Earlier aero planes used cloth,34317.0
+232.0,Muslin,Rugs and carpets.,18868.0
+233.0,Rayon,parachutes,47413.0
+234.0,Rayon,Industrial and scientific uses,44005.0
+235.0,Silk,Balloons,38773.0
+236.0,Satin,Rugs and carpets.,43272.0
+237.0,Satin,parachutes,95957.0
+238.0,Muslin,Furnishings and other home accessories,65842.0
+239.0,Polyester,Balloons,72884.0
+240.0,Cotton,Clothing,96760.0
+241.0,Linen,sails,82191.0
+242.0,Rayon,Nets,78860.0
+243.0,Wool,Clothing,92879.0
+244.0,Polyester,kites,62895.0
+245.0,Muslin,Industrial and scientific uses,58156.0
+246.0,Polyester,Clothing,2507.0
+247.0,Linen,Clothing,57784.0
+248.0,Polyester,Industrial and scientific uses,2037.0
+249.0,Silk,Rugs and carpets.,20995.0
+250.0,Cotton,Balloons,52344.0
+251.0,Silk,Furnishings and other home accessories,78198.0
+252.0,Muslin,parachutes,82500.0
+253.0,Silk,sails,1218.0
+254.0,Wool,parachutes,22315.0
+255.0,Satin,sails,14421.0
+256.0,Cotton,Earlier aero planes used cloth,81435.0
+257.0,Wool,Industrial and scientific uses,8882.0
+258.0,Rayon,Earlier aero planes used cloth,93633.0
+259.0,Wool,Industrial and scientific uses,60850.0
+260.0,Linen,Balloons,47772.0
+261.0,Silk,Geotextiles,41486.0
+262.0,Muslin,Rugs and carpets.,67068.0
+263.0,Cotton,Earlier aero planes used cloth,56310.0
+264.0,Linen,Earlier aero planes used cloth,28365.0
+265.0,Silk,parachutes,33083.0
+266.0,Polyester,Rugs and carpets.,62344.0
+267.0,Silk,Industrial and scientific uses,52586.0
+268.0,Rayon,Balloons,58129.0
+269.0,Rayon,Nets,65629.0
+270.0,Polyester,Nets,86702.0
+271.0,Linen,Flags,59311.0
+272.0,Linen,Clothing,28855.0
+273.0,Muslin,Geotextiles,72207.0
+274.0,Muslin,Earlier aero planes used cloth,34307.0
+275.0,Silk,parachutes,79011.0
+276.0,Wool,sails,48607.0
+277.0,Cotton,Geotextiles,98799.0
+278.0,Silk,kites,96946.0
+279.0,Rayon,Clothing,36506.0
+280.0,Polyester,Flags,16145.0
+281.0,Wool,kites,5742.0
+282.0,Polyester,Flags,26687.0
+283.0,Silk,parachutes,76309.0
+284.0,Cotton,Balloons,93824.0
+285.0,Linen,Furnishings and other home accessories,87814.0
+286.0,Wool,Flags,94599.0
+287.0,Polyester,Industrial and scientific uses,50051.0
+288.0,Linen,kites,79622.0
+289.0,Rayon,Balloons,45863.0
+290.0,Silk,Rugs and carpets.,11992.0
+291.0,Muslin,Nets,67467.0
+292.0,Satin,Bags and other means of carrying objects,93537.0
+293.0,Linen,Rugs and carpets.,29337.0
+294.0,Satin,Earlier aero planes used cloth,98675.0
+295.0,Wool,Clothing,74057.0
+296.0,Cotton,Rugs and carpets.,50328.0
+297.0,Polyester,Flags,63201.0
+298.0,Silk,Earlier aero planes used cloth,51774.0
+299.0,Cotton,Industrial and scientific uses,20829.0
+300.0,Linen,Bags and other means of carrying objects,4025.0
+301.0,Rayon,Nets,1691.0
+302.0,Wool,Nets,91376.0
+303.0,Wool,parachutes,48009.0
+304.0,Satin,Industrial and scientific uses,91542.0
+305.0,Muslin,Industrial and scientific uses,71802.0
+306.0,Polyester,Industrial and scientific uses,73334.0
+307.0,Wool,sails,6982.0
+308.0,Muslin,Geotextiles,20886.0
+309.0,Linen,Furnishings and other home accessories,29015.0
+310.0,Muslin,Rugs and carpets.,32234.0
+311.0,Wool,Rugs and carpets.,49317.0
+312.0,Satin,Rugs and carpets.,22894.0
+313.0,Cotton,Flags,24123.0
+314.0,Satin,Geotextiles,80529.0
+315.0,Silk,kites,43353.0
+316.0,Rayon,Flags,3237.0
+317.0,Linen,sails,7742.0
+318.0,Satin,Furnishings and other home accessories,83558.0
+319.0,Muslin,Flags,43041.0
+320.0,Cotton,Furnishings and other home accessories,76987.0
+321.0,Cotton,Nets,47423.0
+322.0,Linen,Flags,60695.0
+323.0,Wool,Bags and other means of carrying objects,15265.0
+324.0,Muslin,Flags,90586.0
+325.0,Wool,kites,99270.0
+326.0,Muslin,Earlier aero planes used cloth,63433.0
+327.0,Cotton,Clothing,28561.0
+328.0,Linen,Balloons,31008.0
+329.0,Cotton,Nets,10946.0
+330.0,Satin,kites,41812.0
+331.0,Satin,Furnishings and other home accessories,61602.0
+332.0,Wool,sails,58883.0
+333.0,Muslin,Flags,88118.0
+334.0,Silk,Flags,16906.0
+335.0,Satin,Flags,48654.0
+336.0,Polyester,parachutes,8090.0
+337.0,Polyester,Furnishings and other home accessories,62373.0
+338.0,Polyester,Rugs and carpets.,95440.0
+339.0,Wool,Bags and other means of carrying objects,54292.0
+340.0,Muslin,Industrial and scientific uses,4289.0
+341.0,Muslin,parachutes,14088.0
+342.0,Silk,Rugs and carpets.,53939.0
+343.0,Cotton,parachutes,22176.0
+344.0,Cotton,Nets,76009.0
+345.0,Satin,Furnishings and other home accessories,29403.0
+346.0,Linen,Geotextiles,98479.0
+347.0,Satin,Flags,59471.0
+348.0,Cotton,Rugs and carpets.,98414.0
+349.0,Polyester,Nets,47319.0
+350.0,Linen,Bags and other means of carrying objects,54699.0
+351.0,Rayon,Rugs and carpets.,20664.0
+352.0,Silk,Industrial and scientific uses,2435.0
+353.0,Cotton,Furnishings and other home accessories,50975.0
+354.0,Wool,parachutes,66121.0
+355.0,Rayon,parachutes,67740.0
+356.0,Cotton,Furnishings and other home accessories,68378.0
+357.0,Linen,Earlier aero planes used cloth,83393.0
+358.0,Silk,Balloons,32832.0
+359.0,Muslin,sails,4784.0
+360.0,Cotton,parachutes,83232.0
+361.0,Muslin,Geotextiles,41192.0
+362.0,Muslin,Geotextiles,47282.0
+363.0,Silk,Geotextiles,84837.0
+364.0,Polyester,Nets,75762.0
+365.0,Linen,kites,65472.0
+366.0,Muslin,Earlier aero planes used cloth,92618.0
+367.0,Cotton,Geotextiles,21556.0
+368.0,Silk,Balloons,71324.0
+369.0,Muslin,kites,73099.0
+370.0,Linen,Clothing,14582.0
+371.0,Cotton,Bags and other means of carrying objects,51804.0
+372.0,Muslin,Rugs and carpets.,45150.0
+373.0,Rayon,Furnishings and other home accessories,86258.0
+374.0,Cotton,Nets,93939.0
+375.0,Polyester,Bags and other means of carrying objects,98024.0
+376.0,Rayon,Balloons,90264.0
+377.0,Cotton,Clothing,4820.0
+378.0,Muslin,Furnishings and other home accessories,6024.0
+379.0,Polyester,Flags,67216.0
+380.0,Silk,Nets,33451.0
+381.0,Rayon,Nets,8800.0
+382.0,Linen,Industrial and scientific uses,93995.0
+383.0,Linen,kites,39106.0
+384.0,Satin,Bags and other means of carrying objects,84816.0
+385.0,Cotton,Flags,65269.0
+386.0,Polyester,Earlier aero planes used cloth,95608.0
+387.0,Satin,kites,76920.0
+388.0,Rayon,Rugs and carpets.,19923.0
+389.0,Cotton,Nets,73406.0
+390.0,Wool,Bags and other means of carrying objects,46591.0
+391.0,Rayon,Earlier aero planes used cloth,73266.0
+392.0,Silk,Clothing,54607.0
+393.0,Muslin,Nets,79504.0
+394.0,Muslin,kites,1426.0
+395.0,Satin,Earlier aero planes used cloth,61873.0
+396.0,Cotton,Balloons,76289.0
+397.0,Rayon,Bags and other means of carrying objects,28847.0
+398.0,Linen,kites,40786.0
+399.0,Rayon,kites,46031.0
+400.0,Wool,parachutes,81765.0
+401.0,Linen,Furnishings and other home accessories,39962.0
+402.0,Rayon,Bags and other means of carrying objects,52138.0
+403.0,Wool,Geotextiles,45739.0
+404.0,Polyester,Geotextiles,86889.0
+405.0,Cotton,parachutes,1100.0
+406.0,Muslin,Clothing,14275.0
+407.0,Satin,Geotextiles,61275.0
+408.0,Silk,Furnishings and other home accessories,80369.0
+409.0,Cotton,Bags and other means of carrying objects,55791.0
+410.0,Satin,sails,64245.0
+411.0,Polyester,Rugs and carpets.,66681.0
+412.0,Satin,kites,34493.0
+413.0,Wool,parachutes,31019.0
+414.0,Polyester,Industrial and scientific uses,43895.0
+415.0,Muslin,Balloons,26544.0
+416.0,Cotton,Furnishings and other home accessories,45244.0
+417.0,Silk,Earlier aero planes used cloth,62663.0
+418.0,Silk,Geotextiles,54983.0
+419.0,Muslin,Nets,62830.0
+420.0,Wool,Rugs and carpets.,49288.0
+421.0,Silk,Nets,91800.0
+422.0,Polyester,Balloons,5222.0
+423.0,Satin,Industrial and scientific uses,4156.0
+424.0,Silk,Furnishings and other home accessories,21309.0
+425.0,Polyester,Industrial and scientific uses,64768.0
+426.0,Silk,kites,2348.0
+427.0,Wool,Flags,47723.0
+428.0,Wool,Balloons,25012.0
+429.0,Wool,Nets,56235.0
+430.0,Wool,Rugs and carpets.,25240.0
+431.0,Rayon,Earlier aero planes used cloth,51208.0
+432.0,Muslin,Furnishings and other home accessories,53181.0
+433.0,Rayon,Furnishings and other home accessories,73761.0
+434.0,Polyester,Earlier aero planes used cloth,81227.0
+435.0,Polyester,Balloons,20293.0
+436.0,Silk,parachutes,9179.0
+437.0,Silk,Geotextiles,11973.0
+438.0,Polyester,Rugs and carpets.,7872.0
+439.0,Linen,Earlier aero planes used cloth,30419.0
+440.0,Silk,Industrial and scientific uses,41428.0
+441.0,Wool,Earlier aero planes used cloth,84001.0
+442.0,Wool,Geotextiles,52829.0
+443.0,Muslin,Industrial and scientific uses,1620.0
+444.0,Wool,Nets,43471.0
+445.0,Silk,Bags and other means of carrying objects,25977.0
+446.0,Silk,kites,26447.0
+447.0,Silk,Industrial and scientific uses,37813.0
+448.0,Linen,Nets,95021.0
+449.0,Muslin,Earlier aero planes used cloth,1369.0
+450.0,Rayon,sails,44595.0
+451.0,Rayon,Clothing,26944.0
+452.0,Rayon,Clothing,80583.0
+453.0,Polyester,kites,49401.0
+454.0,Polyester,Industrial and scientific uses,63250.0
+455.0,Silk,kites,23096.0
+456.0,Wool,Furnishings and other home accessories,67936.0
+457.0,Satin,kites,86370.0
+458.0,Rayon,Nets,55964.0
+459.0,Linen,Clothing,61785.0
+460.0,Wool,Geotextiles,65820.0
+461.0,Polyester,Nets,54202.0
+462.0,Silk,Earlier aero planes used cloth,4169.0
+463.0,Silk,Clothing,37751.0
+464.0,Wool,Rugs and carpets.,46979.0
+465.0,Rayon,parachutes,91144.0
+466.0,Satin,Industrial and scientific uses,96801.0
+467.0,Silk,Industrial and scientific uses,79581.0
+468.0,Linen,parachutes,24890.0
+469.0,Silk,kites,59134.0
+470.0,Cotton,Flags,21967.0
+471.0,Polyester,sails,15193.0
+472.0,Wool,kites,35118.0
+473.0,Linen,Industrial and scientific uses,42410.0
+474.0,Silk,Clothing,91554.0
+475.0,Satin,kites,18208.0
+476.0,Cotton,kites,96696.0
+477.0,Cotton,Furnishings and other home accessories,93727.0
+478.0,Cotton,Nets,8240.0
+479.0,Rayon,Bags and other means of carrying objects,74437.0
+480.0,Linen,Nets,7583.0
+481.0,Polyester,Flags,1078.0
+482.0,Silk,Rugs and carpets.,16436.0
+483.0,Polyester,Earlier aero planes used cloth,69232.0
+484.0,Muslin,Furnishings and other home accessories,27587.0
+485.0,Satin,Bags and other means of carrying objects,89145.0
+486.0,Rayon,kites,30435.0
+487.0,Satin,Nets,87910.0
+488.0,Wool,Geotextiles,17449.0
+489.0,Wool,Industrial and scientific uses,41542.0
+490.0,Cotton,Furnishings and other home accessories,67644.0
+491.0,Wool,Industrial and scientific uses,38575.0
+492.0,Linen,Geotextiles,98054.0
+493.0,Cotton,Flags,26525.0
+494.0,Silk,Industrial and scientific uses,72805.0
+495.0,Satin,Industrial and scientific uses,26553.0
+496.0,Polyester,Earlier aero planes used cloth,52197.0
+497.0,Polyester,Geotextiles,7428.0
+498.0,Cotton,Nets,19152.0
+499.0,Muslin,Rugs and carpets.,13514.0
+500.0,Cotton,Flags,12690.0
+501.0,Satin,parachutes,88476.0
+502.0,Wool,sails,43602.0
+503.0,Wool,Industrial and scientific uses,77813.0
+504.0,Silk,Earlier aero planes used cloth,76118.0
+505.0,Muslin,Flags,95351.0
+506.0,Cotton,kites,50377.0
+507.0,Satin,kites,79827.0
+508.0,Muslin,Furnishings and other home accessories,63685.0
+509.0,Wool,Nets,82092.0
+510.0,Linen,Earlier aero planes used cloth,23186.0
+511.0,Satin,Bags and other means of carrying objects,45917.0
+512.0,Satin,Clothing,84201.0
+513.0,Rayon,Flags,84334.0
+514.0,Muslin,Nets,83984.0
+515.0,Polyester,Furnishings and other home accessories,50752.0
+516.0,Silk,Clothing,18507.0
+517.0,Cotton,Bags and other means of carrying objects,87925.0
+518.0,Rayon,Flags,31744.0
+519.0,Wool,Clothing,83737.0
+520.0,Rayon,parachutes,10310.0
+521.0,Linen,Furnishings and other home accessories,64632.0
+522.0,Wool,kites,70804.0
+523.0,Silk,Rugs and carpets.,13019.0
+524.0,Linen,Bags and other means of carrying objects,90883.0
+525.0,Muslin,kites,78253.0
+526.0,Wool,Balloons,68279.0
+527.0,Satin,Rugs and carpets.,57609.0
+528.0,Silk,Flags,46239.0
+529.0,Silk,Balloons,91622.0
+530.0,Polyester,Balloons,29674.0
+531.0,Satin,Industrial and scientific uses,34071.0
+532.0,Wool,sails,83037.0
+533.0,Linen,Nets,54273.0
+534.0,Silk,kites,54228.0
+535.0,Silk,kites,99227.0
+536.0,Silk,Geotextiles,83226.0
+537.0,Polyester,Bags and other means of carrying objects,31438.0
+538.0,Silk,Flags,63229.0
+539.0,Satin,Clothing,36773.0
+540.0,Rayon,parachutes,39075.0
+541.0,Muslin,Furnishings and other home accessories,48286.0
+542.0,Cotton,Flags,13014.0
+543.0,Cotton,Industrial and scientific uses,25097.0
+544.0,Muslin,Furnishings and other home accessories,82033.0
+545.0,Satin,Furnishings and other home accessories,6641.0
+546.0,Rayon,parachutes,62632.0
+547.0,Polyester,Clothing,24087.0
+548.0,Wool,parachutes,52954.0
+549.0,Cotton,Clothing,38284.0
+550.0,Wool,Balloons,34270.0
+551.0,Cotton,Clothing,60988.0
+552.0,Silk,Balloons,64105.0
+553.0,Satin,kites,53424.0
+554.0,Cotton,Balloons,28388.0
+555.0,Cotton,Earlier aero planes used cloth,34908.0
+556.0,Wool,Earlier aero planes used cloth,13565.0
+557.0,Cotton,Balloons,67035.0
+558.0,Wool,Industrial and scientific uses,5684.0
+559.0,Linen,Bags and other means of carrying objects,92158.0
+560.0,Satin,parachutes,71822.0
+561.0,Silk,Bags and other means of carrying objects,49791.0
+562.0,Linen,Bags and other means of carrying objects,87256.0
+563.0,Linen,Rugs and carpets.,61026.0
+564.0,Linen,kites,79818.0
+565.0,Linen,Rugs and carpets.,5514.0
+566.0,Polyester,sails,35424.0
+567.0,Rayon,Nets,8382.0
+568.0,Polyester,kites,65577.0
+569.0,Linen,Balloons,38972.0
+570.0,Linen,Industrial and scientific uses,77026.0
+571.0,Linen,Rugs and carpets.,74493.0
+572.0,Silk,kites,88880.0
+573.0,Satin,Earlier aero planes used cloth,71051.0
+574.0,Satin,Clothing,96423.0
+575.0,Polyester,Earlier aero planes used cloth,21858.0
+576.0,Satin,Furnishings and other home accessories,47701.0
+577.0,Silk,Industrial and scientific uses,92056.0
+578.0,Linen,parachutes,33035.0
+579.0,Rayon,Balloons,91779.0
+580.0,Cotton,Clothing,78419.0
+581.0,Cotton,Bags and other means of carrying objects,93565.0
+582.0,Muslin,Earlier aero planes used cloth,68751.0
+583.0,Muslin,Earlier aero planes used cloth,34278.0
+584.0,Rayon,Earlier aero planes used cloth,47495.0
+585.0,Silk,Nets,26133.0
+586.0,Cotton,parachutes,41713.0
+587.0,Rayon,Furnishings and other home accessories,18219.0
+588.0,Muslin,Furnishings and other home accessories,16231.0
+589.0,Wool,Nets,6505.0
+590.0,Rayon,Balloons,99517.0
+591.0,Silk,Rugs and carpets.,94290.0
+592.0,Cotton,Furnishings and other home accessories,71553.0
+593.0,Linen,Industrial and scientific uses,21810.0
+594.0,Rayon,Flags,70927.0
+595.0,Silk,Flags,72295.0
+596.0,Rayon,Industrial and scientific uses,15682.0
+597.0,Muslin,Geotextiles,3166.0
+598.0,Linen,parachutes,8070.0
+599.0,Silk,kites,92518.0
+600.0,Muslin,Balloons,50342.0
+601.0,Satin,sails,40698.0
+602.0,Wool,Nets,4882.0
+603.0,Polyester,Balloons,18342.0
+604.0,Silk,Nets,38683.0
+605.0,Satin,Furnishings and other home accessories,77336.0
+606.0,Silk,Clothing,21082.0
+607.0,Wool,Nets,45010.0
+608.0,Cotton,Industrial and scientific uses,59336.0
+609.0,Rayon,kites,18471.0
+610.0,Satin,Geotextiles,88049.0
+611.0,Muslin,sails,51250.0
+612.0,Muslin,Nets,45479.0
+613.0,Satin,Flags,53162.0
+614.0,Muslin,parachutes,87886.0
+615.0,Wool,sails,94497.0
+616.0,Wool,Nets,15620.0
+617.0,Polyester,Nets,92611.0
+618.0,Muslin,Furnishings and other home accessories,14683.0
+619.0,Polyester,Furnishings and other home accessories,83551.0
+620.0,Silk,Nets,38489.0
+621.0,Muslin,Flags,46430.0
+622.0,Satin,Rugs and carpets.,53181.0
+623.0,Muslin,Flags,33441.0
+624.0,Rayon,Nets,61929.0
+625.0,Muslin,Geotextiles,36141.0
+626.0,Silk,Clothing,25777.0
+627.0,Muslin,Bags and other means of carrying objects,26264.0
+628.0,Wool,parachutes,7164.0
+629.0,Wool,kites,62257.0
+630.0,Rayon,Furnishings and other home accessories,93247.0
+631.0,Linen,sails,48650.0
+632.0,Polyester,Balloons,10479.0
+633.0,Rayon,Furnishings and other home accessories,3218.0
+634.0,Wool,Industrial and scientific uses,78093.0
+635.0,Satin,Balloons,39369.0
+636.0,Linen,kites,97067.0
+637.0,Muslin,Earlier aero planes used cloth,24373.0
+638.0,Silk,Flags,78556.0
+639.0,Cotton,Nets,5746.0
+640.0,Cotton,Industrial and scientific uses,46541.0
+641.0,Linen,parachutes,30499.0
+642.0,Cotton,Rugs and carpets.,27181.0
+643.0,Polyester,kites,77873.0
+644.0,Rayon,parachutes,47525.0
+645.0,Silk,Geotextiles,68493.0
+646.0,Cotton,Furnishings and other home accessories,84364.0
+647.0,Cotton,Flags,70094.0
+648.0,Silk,Balloons,25484.0
+649.0,Linen,Industrial and scientific uses,98525.0
+650.0,Silk,Earlier aero planes used cloth,72082.0
+651.0,Polyester,Furnishings and other home accessories,36209.0
+652.0,Polyester,Flags,32914.0
+653.0,Linen,kites,76607.0
+654.0,Polyester,Furnishings and other home accessories,61166.0
+655.0,Rayon,Geotextiles,95746.0
+656.0,Wool,Flags,47348.0
+657.0,Wool,Furnishings and other home accessories,14646.0
+658.0,Rayon,Earlier aero planes used cloth,41986.0
+659.0,Cotton,parachutes,14260.0
+660.0,Muslin,Flags,38717.0
+661.0,Cotton,parachutes,77677.0
+662.0,Polyester,Clothing,71830.0
+663.0,Rayon,Rugs and carpets.,61204.0
+664.0,Rayon,Balloons,56964.0
+665.0,Wool,Bags and other means of carrying objects,98605.0
+666.0,Rayon,Earlier aero planes used cloth,57003.0
+667.0,Silk,Flags,52087.0
+668.0,Polyester,Industrial and scientific uses,98840.0
+669.0,Silk,Balloons,43425.0
+670.0,Polyester,Geotextiles,32655.0
+671.0,Cotton,Nets,56171.0
+672.0,Muslin,kites,58478.0
+673.0,Rayon,Industrial and scientific uses,13900.0
+674.0,Cotton,Geotextiles,85728.0
+675.0,Muslin,sails,54488.0
+676.0,Rayon,Bags and other means of carrying objects,92533.0
+677.0,Polyester,Clothing,1646.0
+678.0,Silk,sails,27869.0
+679.0,Satin,kites,6905.0
+680.0,Linen,Balloons,89478.0
+681.0,Muslin,kites,94328.0
+682.0,Polyester,Balloons,15985.0
+683.0,Rayon,Balloons,71980.0
+684.0,Wool,Rugs and carpets.,74711.0
+685.0,Wool,Earlier aero planes used cloth,24061.0
+686.0,Satin,sails,3885.0
+687.0,Cotton,Geotextiles,5321.0
+688.0,Rayon,Balloons,3207.0
+689.0,Rayon,Earlier aero planes used cloth,21893.0
+690.0,Rayon,kites,60822.0
+691.0,Linen,Earlier aero planes used cloth,49643.0
+692.0,Linen,Geotextiles,8115.0
+693.0,Linen,Geotextiles,80383.0
+694.0,Polyester,Earlier aero planes used cloth,41214.0
+695.0,Linen,Flags,97836.0
+696.0,Muslin,Balloons,78682.0
+697.0,Rayon,Rugs and carpets.,36560.0
+698.0,Wool,Clothing,3971.0
+699.0,Wool,sails,84296.0
+700.0,Silk,Balloons,65389.0
+701.0,Linen,kites,33928.0
+702.0,Wool,Industrial and scientific uses,80731.0
+703.0,Wool,Clothing,70114.0
+704.0,Polyester,Geotextiles,63360.0
+705.0,Muslin,Rugs and carpets.,33857.0
+706.0,Wool,sails,83542.0
+707.0,Linen,Balloons,80110.0
+708.0,Wool,Rugs and carpets.,88614.0
+709.0,Satin,Industrial and scientific uses,39980.0
+710.0,Cotton,parachutes,44169.0
+711.0,Silk,Furnishings and other home accessories,85508.0
+712.0,Muslin,Industrial and scientific uses,49619.0
+713.0,Satin,Industrial and scientific uses,95231.0
+714.0,Rayon,Balloons,94541.0
+715.0,Silk,Rugs and carpets.,19141.0
+716.0,Linen,kites,40251.0
+717.0,Muslin,Balloons,20825.0
+718.0,Linen,Furnishings and other home accessories,14339.0
+719.0,Cotton,Geotextiles,23519.0
+720.0,Silk,Earlier aero planes used cloth,45628.0
+721.0,Satin,parachutes,18476.0
+722.0,Polyester,Clothing,42453.0
+723.0,Silk,Earlier aero planes used cloth,28280.0
+724.0,Rayon,kites,17987.0
+725.0,Polyester,kites,18944.0
+726.0,Muslin,parachutes,94737.0
+727.0,Linen,parachutes,97239.0
+728.0,Rayon,Geotextiles,52282.0
+729.0,Wool,parachutes,46998.0
+730.0,Wool,parachutes,85660.0
+731.0,Linen,Bags and other means of carrying objects,44060.0
+732.0,Cotton,Bags and other means of carrying objects,7738.0
+733.0,Polyester,Earlier aero planes used cloth,65526.0
+734.0,Satin,Clothing,4686.0
+735.0,Rayon,Industrial and scientific uses,93775.0
+736.0,Satin,Flags,37388.0
+737.0,Satin,parachutes,74646.0
+738.0,Silk,parachutes,60971.0
+739.0,Wool,Clothing,36428.0
+740.0,Cotton,kites,43396.0
+741.0,Silk,parachutes,86818.0
+742.0,Linen,Earlier aero planes used cloth,19462.0
+743.0,Silk,Bags and other means of carrying objects,34933.0
+744.0,Linen,kites,36545.0
+745.0,Muslin,Geotextiles,90047.0
+746.0,Polyester,parachutes,80173.0
+747.0,Rayon,Geotextiles,13847.0
+748.0,Polyester,Balloons,94394.0
+749.0,Satin,Furnishings and other home accessories,48559.0
+750.0,Wool,Earlier aero planes used cloth,13155.0
+751.0,Linen,Furnishings and other home accessories,88509.0
+752.0,Rayon,Rugs and carpets.,70883.0
+753.0,Polyester,Nets,11600.0
+754.0,Muslin,Industrial and scientific uses,72475.0
+755.0,Wool,Clothing,71965.0
+756.0,Linen,Rugs and carpets.,55508.0
+757.0,Silk,Furnishings and other home accessories,785.0
+758.0,Cotton,Rugs and carpets.,58075.0
+759.0,Cotton,Flags,55803.0
+760.0,Cotton,Nets,58258.0
+761.0,Rayon,Balloons,75298.0
+762.0,Rayon,Nets,80449.0
+763.0,Rayon,Balloons,47381.0
+764.0,Polyester,Geotextiles,71224.0
+765.0,Muslin,sails,89475.0
+766.0,Satin,sails,19979.0
+767.0,Silk,parachutes,44419.0
+768.0,Cotton,sails,66979.0
+769.0,Muslin,Geotextiles,67848.0
+770.0,Rayon,kites,45480.0
+771.0,Polyester,parachutes,22056.0
+772.0,Cotton,kites,1188.0
+773.0,Linen,Earlier aero planes used cloth,67255.0
+774.0,Linen,Furnishings and other home accessories,5063.0
+775.0,Polyester,parachutes,58297.0
+776.0,Satin,Balloons,91154.0
+777.0,Polyester,Flags,57989.0
+778.0,Linen,Bags and other means of carrying objects,83258.0
+779.0,Polyester,Bags and other means of carrying objects,76086.0
+780.0,Wool,Earlier aero planes used cloth,23864.0
+781.0,Cotton,Flags,17910.0
+782.0,Polyester,Earlier aero planes used cloth,98320.0
+783.0,Linen,Balloons,45160.0
+784.0,Muslin,Balloons,86814.0
+785.0,Wool,Flags,85802.0
+786.0,Satin,Bags and other means of carrying objects,66303.0
+787.0,Linen,kites,8941.0
+788.0,Muslin,Furnishings and other home accessories,29859.0
+789.0,Rayon,Nets,58762.0
+790.0,Polyester,Nets,93587.0
+791.0,Polyester,Geotextiles,24904.0
+792.0,Rayon,Industrial and scientific uses,3245.0
+793.0,Polyester,Furnishings and other home accessories,28581.0
+794.0,Wool,Balloons,89459.0
+795.0,Silk,Bags and other means of carrying objects,31378.0
+796.0,Polyester,Clothing,11036.0
+797.0,Rayon,Balloons,40699.0
+798.0,Satin,Balloons,84653.0
+799.0,Cotton,parachutes,49831.0
+800.0,Polyester,Rugs and carpets.,94024.0
+801.0,Muslin,Geotextiles,68073.0
+802.0,Satin,Earlier aero planes used cloth,18501.0
+803.0,Silk,Bags and other means of carrying objects,26725.0
+804.0,Cotton,Furnishings and other home accessories,88189.0
+805.0,Wool,sails,67833.0
+806.0,Polyester,Bags and other means of carrying objects,94360.0
+807.0,Wool,sails,97119.0
+808.0,Polyester,Bags and other means of carrying objects,24292.0
+809.0,Silk,Nets,58051.0
+810.0,Muslin,Furnishings and other home accessories,63081.0
+811.0,Silk,Rugs and carpets.,67124.0
+812.0,Linen,Bags and other means of carrying objects,90489.0
+813.0,Linen,parachutes,94535.0
+814.0,Satin,Furnishings and other home accessories,56060.0
+815.0,Muslin,Balloons,36782.0
+816.0,Cotton,Bags and other means of carrying objects,43327.0
+817.0,Rayon,Industrial and scientific uses,96361.0
+818.0,Cotton,Flags,23436.0
+819.0,Muslin,Nets,95346.0
+820.0,Wool,parachutes,67579.0
+821.0,Cotton,parachutes,77738.0
+822.0,Satin,Furnishings and other home accessories,80538.0
+823.0,Silk,Rugs and carpets.,54045.0
+824.0,Satin,Flags,65174.0
+825.0,Linen,Geotextiles,50494.0
+826.0,Polyester,Bags and other means of carrying objects,71234.0
+827.0,Polyester,kites,4561.0
+828.0,Silk,Geotextiles,84770.0
+829.0,Silk,Earlier aero planes used cloth,83679.0
+830.0,Linen,Nets,24889.0
+831.0,Wool,parachutes,18185.0
+832.0,Polyester,kites,97532.0
+833.0,Rayon,Earlier aero planes used cloth,47303.0
+834.0,Muslin,Nets,53100.0
+835.0,Linen,Balloons,32509.0
+836.0,Satin,Geotextiles,95696.0
+837.0,Rayon,Rugs and carpets.,51486.0
+838.0,Polyester,Geotextiles,95243.0
+839.0,Wool,Industrial and scientific uses,37543.0
+840.0,Satin,sails,49240.0
+841.0,Satin,Bags and other means of carrying objects,61878.0
+842.0,Polyester,Bags and other means of carrying objects,16489.0
+843.0,Silk,kites,40152.0
+844.0,Wool,Bags and other means of carrying objects,42924.0
+845.0,Rayon,Earlier aero planes used cloth,8358.0
+846.0,Wool,parachutes,2623.0
+847.0,Satin,Flags,12656.0
+848.0,Silk,Clothing,19940.0
+849.0,Silk,kites,6787.0
+850.0,Cotton,Balloons,8874.0
+851.0,Muslin,kites,51049.0
+852.0,Silk,sails,96153.0
+853.0,Satin,Earlier aero planes used cloth,80953.0
+854.0,Cotton,Bags and other means of carrying objects,98321.0
+855.0,Muslin,Geotextiles,44621.0
+856.0,Cotton,Rugs and carpets.,80700.0
+857.0,Wool,Rugs and carpets.,7672.0
+858.0,Satin,Bags and other means of carrying objects,98178.0
+859.0,Silk,Balloons,40964.0
+860.0,Silk,Bags and other means of carrying objects,638.0
+861.0,Wool,Bags and other means of carrying objects,91323.0
+862.0,Cotton,Geotextiles,1067.0
+863.0,Linen,Furnishings and other home accessories,1469.0
+864.0,Rayon,Clothing,94612.0
+865.0,Satin,Nets,60062.0
+866.0,Polyester,Nets,81843.0
+867.0,Linen,sails,95427.0
+868.0,Linen,Earlier aero planes used cloth,17545.0
+869.0,Rayon,Nets,70390.0
+870.0,Satin,Furnishings and other home accessories,32262.0
+871.0,Wool,Balloons,82834.0
+872.0,Rayon,Furnishings and other home accessories,94979.0
+873.0,Linen,Earlier aero planes used cloth,59031.0
+874.0,Rayon,Industrial and scientific uses,21500.0
+875.0,Cotton,Nets,38053.0
+876.0,Silk,Rugs and carpets.,71342.0
+877.0,Cotton,Flags,49240.0
+878.0,Linen,Industrial and scientific uses,41434.0
+879.0,Silk,sails,37958.0
+880.0,Muslin,Earlier aero planes used cloth,41672.0
+881.0,Linen,Balloons,53550.0
+882.0,Wool,sails,32115.0
+883.0,Polyester,Furnishings and other home accessories,88600.0
+884.0,Silk,Nets,8704.0
+885.0,Linen,Nets,41733.0
+886.0,Rayon,sails,67552.0
+887.0,Muslin,Clothing,2052.0
+888.0,Rayon,Clothing,2199.0
+889.0,Satin,Flags,27225.0
+890.0,Rayon,Furnishings and other home accessories,65405.0
+891.0,Polyester,Earlier aero planes used cloth,18164.0
+892.0,Polyester,sails,5514.0
+893.0,Satin,Furnishings and other home accessories,66877.0
+894.0,Muslin,Rugs and carpets.,45019.0
+895.0,Cotton,kites,36125.0
+896.0,Linen,Rugs and carpets.,90087.0
+897.0,Cotton,Bags and other means of carrying objects,3696.0
+898.0,Cotton,Geotextiles,94069.0
+899.0,Cotton,Balloons,72490.0
+900.0,Muslin,parachutes,25682.0
+901.0,Satin,Geotextiles,36463.0
+902.0,Linen,Balloons,21150.0
+903.0,Cotton,Bags and other means of carrying objects,75648.0
+904.0,Muslin,Geotextiles,97933.0
+905.0,Rayon,Bags and other means of carrying objects,23282.0
+906.0,Linen,Nets,83002.0
+907.0,Silk,Bags and other means of carrying objects,37561.0
+908.0,Wool,Earlier aero planes used cloth,2908.0
+909.0,Rayon,Bags and other means of carrying objects,29245.0
+910.0,Wool,Geotextiles,69763.0
+911.0,Polyester,kites,95586.0
+912.0,Cotton,Furnishings and other home accessories,11053.0
+913.0,Rayon,parachutes,3479.0
+914.0,Wool,Industrial and scientific uses,52898.0
+915.0,Muslin,Industrial and scientific uses,68535.0
+916.0,Wool,sails,27782.0
+917.0,Polyester,Bags and other means of carrying objects,7985.0
+918.0,Rayon,Geotextiles,76918.0
+919.0,Satin,Furnishings and other home accessories,45727.0
+920.0,Polyester,Geotextiles,13983.0
+921.0,Wool,Balloons,16711.0
+922.0,Silk,sails,50847.0
+923.0,Satin,Earlier aero planes used cloth,92269.0
+924.0,Wool,kites,81512.0
+925.0,Silk,Balloons,45628.0
+926.0,Cotton,Nets,14196.0
+927.0,Satin,Clothing,19187.0
+928.0,Silk,Balloons,68753.0
+929.0,Muslin,Clothing,31542.0
+930.0,Wool,kites,22103.0
+931.0,Wool,Bags and other means of carrying objects,93090.0
+932.0,Linen,Flags,83612.0
+933.0,Linen,Bags and other means of carrying objects,1522.0
+934.0,Wool,Furnishings and other home accessories,44590.0
+935.0,Muslin,Rugs and carpets.,20831.0
+936.0,Linen,Clothing,14622.0
+937.0,Wool,kites,69018.0
+938.0,Muslin,Bags and other means of carrying objects,39095.0
+939.0,Satin,Industrial and scientific uses,92727.0
+940.0,Linen,Earlier aero planes used cloth,5329.0
+941.0,Satin,Earlier aero planes used cloth,89993.0
+942.0,Wool,Nets,75781.0
+943.0,Cotton,Bags and other means of carrying objects,32187.0
+944.0,Satin,Clothing,67692.0
+945.0,Polyester,Earlier aero planes used cloth,77760.0
+946.0,Linen,parachutes,19692.0
+947.0,Muslin,Earlier aero planes used cloth,65993.0
+948.0,Linen,Geotextiles,4828.0
+949.0,Polyester,Nets,92857.0
+950.0,Muslin,Rugs and carpets.,20693.0
+951.0,Rayon,Nets,41618.0
+952.0,Satin,sails,31514.0
+953.0,Polyester,Furnishings and other home accessories,35332.0
+954.0,Muslin,kites,16121.0
+955.0,Wool,Balloons,17693.0
+956.0,Wool,Balloons,95356.0
+957.0,Linen,Bags and other means of carrying objects,93427.0
+958.0,Muslin,Nets,97900.0
+959.0,Cotton,Flags,95899.0
+960.0,Satin,Bags and other means of carrying objects,911.0
+961.0,Rayon,Flags,14698.0
+962.0,Satin,Furnishings and other home accessories,80394.0
+963.0,Polyester,Furnishings and other home accessories,94051.0
+964.0,Linen,sails,32240.0
+965.0,Satin,Bags and other means of carrying objects,957.0
+966.0,Polyester,Geotextiles,17084.0
+967.0,Muslin,sails,34008.0
+968.0,Wool,Balloons,42993.0
+969.0,Muslin,parachutes,63200.0
+970.0,Satin,sails,51093.0
+971.0,Wool,Nets,37136.0
+972.0,Linen,kites,24827.0
+973.0,Linen,parachutes,70125.0
+974.0,Rayon,kites,3351.0
+975.0,Rayon,Flags,42124.0
+976.0,Muslin,Clothing,12045.0
+977.0,Polyester,kites,4851.0
+978.0,Satin,kites,40816.0
+979.0,Rayon,Clothing,86229.0
+980.0,Cotton,Bags and other means of carrying objects,11772.0
+981.0,Wool,Bags and other means of carrying objects,84762.0
+982.0,Rayon,Geotextiles,57164.0
+983.0,Polyester,parachutes,21108.0
+984.0,Polyester,Clothing,64519.0
+985.0,Polyester,sails,17850.0
+986.0,Muslin,Industrial and scientific uses,41107.0
+987.0,Cotton,Rugs and carpets.,38381.0
+988.0,Silk,sails,66043.0
+989.0,Linen,Bags and other means of carrying objects,72964.0
+990.0,Wool,Earlier aero planes used cloth,36246.0
+991.0,Linen,kites,19172.0
+992.0,Cotton,Earlier aero planes used cloth,66841.0
+993.0,Wool,kites,73928.0
+994.0,Wool,Flags,47277.0
+995.0,Wool,Bags and other means of carrying objects,28496.0
+996.0,Silk,parachutes,18787.0
+997.0,Rayon,Bags and other means of carrying objects,42732.0
+998.0,Silk,Rugs and carpets.,62517.0
+999.0,Linen,Rugs and carpets.,39179.0
+1000.0,Polyester,parachutes,29877.0
+1001.0,Satin,Furnishings and other home accessories,32708.0
+1002.0,Silk,sails,31759.0
+1003.0,Wool,Nets,90610.0
+1004.0,Silk,Bags and other means of carrying objects,44637.0
+1005.0,Silk,kites,77318.0
+1006.0,Wool,Furnishings and other home accessories,1425.0
+1007.0,Cotton,parachutes,90950.0
+1008.0,Satin,Furnishings and other home accessories,55877.0
+1009.0,Linen,Furnishings and other home accessories,86702.0
+1010.0,Rayon,sails,12395.0
+1011.0,Silk,Flags,74896.0
+1012.0,Wool,Earlier aero planes used cloth,50474.0
+1013.0,Wool,Nets,40115.0
+1014.0,Polyester,Rugs and carpets.,66269.0
+1015.0,Cotton,Balloons,46186.0
+1016.0,Rayon,Bags and other means of carrying objects,45386.0
+1017.0,Satin,Industrial and scientific uses,79389.0
+1018.0,Silk,Rugs and carpets.,5081.0
+1019.0,Cotton,sails,94905.0
+1020.0,Muslin,Clothing,10193.0
+1021.0,Muslin,Balloons,88627.0
+1022.0,Satin,Geotextiles,72369.0
+1023.0,Polyester,parachutes,37168.0
+1024.0,Cotton,sails,1316.0
+1025.0,Linen,Rugs and carpets.,89629.0
+1026.0,Polyester,parachutes,57421.0
+1027.0,Wool,sails,37495.0
+1028.0,Muslin,Geotextiles,5345.0
+1029.0,Silk,Earlier aero planes used cloth,77127.0
+1030.0,Satin,Bags and other means of carrying objects,17177.0
+1031.0,Polyester,Nets,55671.0
+1032.0,Wool,Bags and other means of carrying objects,68501.0
+1033.0,Satin,Bags and other means of carrying objects,21379.0
+1034.0,Wool,Geotextiles,56794.0
+1035.0,Muslin,Clothing,13895.0
+1036.0,Linen,Furnishings and other home accessories,24044.0
+1037.0,Rayon,Clothing,78784.0
+1038.0,Muslin,Flags,94276.0
+1039.0,Muslin,Flags,6113.0
+1040.0,Polyester,Rugs and carpets.,31624.0
+1041.0,Silk,Geotextiles,88331.0
+1042.0,Wool,kites,84126.0
+1043.0,Cotton,Clothing,58578.0
+1044.0,Wool,Bags and other means of carrying objects,14163.0
+1045.0,Rayon,Flags,95812.0
+1046.0,Linen,Industrial and scientific uses,39803.0
+1047.0,Silk,sails,96909.0
+1048.0,Polyester,Furnishings and other home accessories,33704.0
+1049.0,Linen,Rugs and carpets.,96569.0
+1050.0,Cotton,Nets,48364.0
+1051.0,Linen,sails,15374.0
+1052.0,Polyester,sails,46734.0
+1053.0,Polyester,Flags,40943.0
+1054.0,Silk,Rugs and carpets.,17945.0
+1055.0,Cotton,parachutes,12279.0
+1056.0,Rayon,Nets,38043.0
+1057.0,Cotton,Earlier aero planes used cloth,58632.0
+1058.0,Satin,kites,78349.0
+1059.0,Rayon,Geotextiles,61455.0
+1060.0,Linen,Rugs and carpets.,14254.0
+1061.0,Rayon,parachutes,23652.0
+1062.0,Cotton,Furnishings and other home accessories,9318.0
+1063.0,Cotton,kites,98939.0
+1064.0,Rayon,Flags,35334.0
+1065.0,Polyester,Rugs and carpets.,1974.0
+1066.0,Polyester,Clothing,2519.0
+1067.0,Polyester,Clothing,66943.0
+1068.0,Silk,Balloons,76177.0
+1069.0,Polyester,kites,91038.0
+1070.0,Muslin,Flags,71776.0
+1071.0,Satin,kites,52682.0
+1072.0,Rayon,Earlier aero planes used cloth,40102.0
+1073.0,Polyester,Bags and other means of carrying objects,34914.0
+1074.0,Muslin,Earlier aero planes used cloth,23618.0
+1075.0,Silk,Industrial and scientific uses,4222.0
+1076.0,Cotton,Rugs and carpets.,59537.0
+1077.0,Silk,kites,12735.0
+1078.0,Muslin,Geotextiles,46728.0
+1079.0,Cotton,kites,92781.0
+1080.0,Muslin,kites,44750.0
+1081.0,Rayon,Industrial and scientific uses,92845.0
+1082.0,Satin,Rugs and carpets.,80923.0
+1083.0,Wool,kites,84884.0
+1084.0,Satin,Rugs and carpets.,14625.0
+1085.0,Silk,Geotextiles,47657.0
+1086.0,Linen,Furnishings and other home accessories,81356.0
+1087.0,Wool,Clothing,68234.0
+1088.0,Muslin,Earlier aero planes used cloth,22147.0
+1089.0,Rayon,Bags and other means of carrying objects,99000.0
+1090.0,Linen,Earlier aero planes used cloth,22034.0
+1091.0,Polyester,sails,7817.0
+1092.0,Polyester,Geotextiles,34878.0
+1093.0,Cotton,Clothing,60801.0
+1094.0,Muslin,Industrial and scientific uses,87881.0
+1095.0,Muslin,Balloons,30172.0
+1096.0,Polyester,Flags,5510.0
+1097.0,Muslin,Geotextiles,60555.0
+1098.0,Rayon,kites,78663.0
+1099.0,Cotton,kites,3925.0
+1100.0,Muslin,Bags and other means of carrying objects,20744.0
+1101.0,Polyester,Earlier aero planes used cloth,75701.0
+1102.0,Polyester,sails,87476.0
+1103.0,Satin,kites,37251.0
+1104.0,Linen,Balloons,74267.0
+1105.0,Wool,sails,72180.0
+1106.0,Linen,Balloons,88479.0
+1107.0,Polyester,Nets,37998.0
+1108.0,Wool,Clothing,8563.0
+1109.0,Silk,Flags,25169.0
+1110.0,Satin,Rugs and carpets.,8646.0
+1111.0,Wool,kites,89193.0
+1112.0,Polyester,kites,54318.0
+1113.0,Satin,Geotextiles,76454.0
+1114.0,Wool,Furnishings and other home accessories,24480.0
+1115.0,Muslin,Rugs and carpets.,89488.0
+1116.0,Silk,Earlier aero planes used cloth,49226.0
+1117.0,Wool,Industrial and scientific uses,62546.0
+1118.0,Cotton,parachutes,20718.0
+1119.0,Linen,Furnishings and other home accessories,9238.0
+1120.0,Polyester,sails,46185.0
+1121.0,Rayon,Rugs and carpets.,79326.0
+1122.0,Linen,kites,39083.0
+1123.0,Polyester,Rugs and carpets.,98944.0
+1124.0,Polyester,Flags,56045.0
+1125.0,Silk,Rugs and carpets.,79717.0
+1126.0,Linen,Bags and other means of carrying objects,52158.0
+1127.0,Rayon,parachutes,54014.0
+1128.0,Cotton,sails,18952.0
+1129.0,Rayon,Bags and other means of carrying objects,7013.0
+1130.0,Cotton,Bags and other means of carrying objects,87825.0
+1131.0,Satin,parachutes,59889.0
+1132.0,Muslin,Geotextiles,92284.0
+1133.0,Silk,Flags,99603.0
+1134.0,Polyester,Rugs and carpets.,19356.0
+1135.0,Silk,Industrial and scientific uses,95694.0
+1136.0,Rayon,Rugs and carpets.,23525.0
+1137.0,Wool,Rugs and carpets.,48254.0
+1138.0,Wool,sails,85886.0
+1139.0,Polyester,Clothing,95094.0
+1140.0,Wool,Clothing,48286.0
+1141.0,Satin,parachutes,87253.0
+1142.0,Satin,Rugs and carpets.,55248.0
+1143.0,Cotton,Bags and other means of carrying objects,43634.0
+1144.0,Satin,Earlier aero planes used cloth,9475.0
+1145.0,Wool,Clothing,12653.0
+1146.0,Satin,Balloons,94697.0
+1147.0,Silk,Nets,96187.0
+1148.0,Muslin,Balloons,7655.0
+1149.0,Satin,kites,31776.0
+1150.0,Wool,Clothing,776.0
+1151.0,Satin,Nets,49809.0
+1152.0,Rayon,parachutes,18151.0
+1153.0,Cotton,Balloons,12576.0
+1154.0,Polyester,kites,61135.0
+1155.0,Rayon,Clothing,77990.0
+1156.0,Silk,Nets,88987.0
+1157.0,Linen,kites,113.0
+1158.0,Linen,Bags and other means of carrying objects,70062.0
+1159.0,Silk,Balloons,72068.0
+1160.0,Polyester,parachutes,84529.0
+1161.0,Silk,Nets,4303.0
+1162.0,Polyester,kites,56062.0
+1163.0,Wool,parachutes,85798.0
+1164.0,Silk,Nets,30212.0
+1165.0,Rayon,Clothing,48145.0
+1166.0,Muslin,Geotextiles,8503.0
+1167.0,Linen,Industrial and scientific uses,56078.0
+1168.0,Silk,kites,64477.0
+1169.0,Muslin,Bags and other means of carrying objects,39291.0
+1170.0,Satin,Nets,57454.0
+1171.0,Silk,parachutes,11225.0
+1172.0,Cotton,Nets,13716.0
+1173.0,Cotton,Earlier aero planes used cloth,61022.0
+1174.0,Silk,parachutes,37645.0
+1175.0,Muslin,Rugs and carpets.,80170.0
+1176.0,Polyester,Clothing,68538.0
+1177.0,Muslin,Bags and other means of carrying objects,83033.0
+1178.0,Muslin,Geotextiles,36293.0
+1179.0,Linen,Flags,95308.0
+1180.0,Polyester,Rugs and carpets.,46722.0
+1181.0,Linen,Balloons,11936.0
+1182.0,Wool,Industrial and scientific uses,97886.0
+1183.0,Wool,Furnishings and other home accessories,58084.0
+1184.0,Polyester,Rugs and carpets.,88965.0
+1185.0,Rayon,Geotextiles,50928.0
+1186.0,Rayon,Rugs and carpets.,89996.0
+1187.0,Muslin,Bags and other means of carrying objects,81732.0
+1188.0,Rayon,kites,98495.0
+1189.0,Rayon,Rugs and carpets.,55200.0
+1190.0,Cotton,Industrial and scientific uses,75232.0
+1191.0,Rayon,Flags,60616.0
+1192.0,Muslin,Flags,28549.0
+1193.0,Satin,Clothing,42079.0
+1194.0,Muslin,Clothing,48505.0
+1195.0,Silk,Bags and other means of carrying objects,34666.0
+1196.0,Wool,Earlier aero planes used cloth,82462.0
+1197.0,Linen,Flags,31945.0
+1198.0,Silk,Flags,60149.0
+1199.0,Polyester,Balloons,44714.0
+1200.0,Muslin,Bags and other means of carrying objects,62980.0
+1201.0,Polyester,Rugs and carpets.,32422.0
+1202.0,Silk,Nets,62448.0
+1203.0,Linen,Earlier aero planes used cloth,49962.0
+1204.0,Linen,Rugs and carpets.,56879.0
+1205.0,Muslin,Flags,11548.0
+1206.0,Polyester,kites,62407.0
+1207.0,Rayon,Nets,88632.0
+1208.0,Satin,Flags,77159.0
+1209.0,Polyester,parachutes,97747.0
+1210.0,Wool,Furnishings and other home accessories,96544.0
+1211.0,Wool,parachutes,74290.0
+1212.0,Silk,sails,55721.0
+1213.0,Cotton,Earlier aero planes used cloth,2922.0
+1214.0,Rayon,Earlier aero planes used cloth,22106.0
+1215.0,Rayon,Furnishings and other home accessories,56926.0
+1216.0,Rayon,Earlier aero planes used cloth,53093.0
+1217.0,Silk,Nets,5203.0
+1218.0,Rayon,Flags,81704.0
+1219.0,Muslin,Geotextiles,83432.0
+1220.0,Rayon,Nets,24481.0
+1221.0,Linen,Balloons,23111.0
+1222.0,Wool,Rugs and carpets.,17366.0
+1223.0,Wool,Earlier aero planes used cloth,79799.0
+1224.0,Polyester,Flags,4383.0
+1225.0,Wool,Industrial and scientific uses,5910.0
+1226.0,Cotton,Nets,10376.0
+1227.0,Cotton,Rugs and carpets.,41719.0
+1228.0,Silk,Nets,61836.0
+1229.0,Satin,Bags and other means of carrying objects,76402.0
+1230.0,Rayon,Geotextiles,64570.0
+1231.0,Linen,Nets,19953.0
+1232.0,Wool,Nets,9048.0
+1233.0,Silk,Nets,82353.0
+1234.0,Polyester,Furnishings and other home accessories,76024.0
+1235.0,Cotton,Clothing,26541.0
+1236.0,Satin,Clothing,75238.0
+1237.0,Rayon,Clothing,86171.0
+1238.0,Satin,Bags and other means of carrying objects,13061.0
+1239.0,Silk,Balloons,57130.0
+1240.0,Muslin,Nets,25826.0
+1241.0,Muslin,parachutes,64530.0
+1242.0,Silk,Clothing,58482.0
+1243.0,Rayon,Furnishings and other home accessories,93919.0
+1244.0,Rayon,Rugs and carpets.,6741.0
+1245.0,Linen,Rugs and carpets.,53938.0
+1246.0,Muslin,Geotextiles,26012.0
+1247.0,Cotton,Geotextiles,2452.0
+1248.0,Rayon,kites,43512.0
+1249.0,Rayon,Furnishings and other home accessories,69593.0
+1250.0,Wool,Rugs and carpets.,66064.0
+1251.0,Wool,Geotextiles,62403.0
+1252.0,Linen,Clothing,17338.0
+1253.0,Polyester,Nets,49248.0
+1254.0,Satin,kites,2070.0
+1255.0,Rayon,Furnishings and other home accessories,55335.0
+1256.0,Silk,Clothing,88358.0
+1257.0,Rayon,sails,65908.0
+1258.0,Silk,Industrial and scientific uses,56498.0
+1259.0,Satin,Flags,45661.0
+1260.0,Satin,sails,98506.0
+1261.0,Rayon,kites,52084.0
+1262.0,Linen,Rugs and carpets.,73285.0
+1263.0,Wool,Flags,37840.0
+1264.0,Wool,parachutes,9600.0
+1265.0,Muslin,Bags and other means of carrying objects,1380.0
+1266.0,Polyester,Bags and other means of carrying objects,37711.0
+1267.0,Rayon,sails,89803.0
+1268.0,Silk,Geotextiles,38535.0
+1269.0,Wool,Nets,13112.0
+1270.0,Muslin,Rugs and carpets.,80555.0
+1271.0,Wool,Rugs and carpets.,56620.0
+1272.0,Satin,Geotextiles,96060.0
+1273.0,Rayon,sails,10538.0
+1274.0,Silk,Furnishings and other home accessories,47752.0
+1275.0,Cotton,Industrial and scientific uses,96664.0
+1276.0,Linen,Industrial and scientific uses,35435.0
+1277.0,Silk,Earlier aero planes used cloth,60849.0
+1278.0,Wool,Balloons,26746.0
+1279.0,Linen,parachutes,62299.0
+1280.0,Linen,sails,47002.0
+1281.0,Polyester,Furnishings and other home accessories,13194.0
+1282.0,Cotton,Flags,2164.0
+1283.0,Rayon,Clothing,59963.0
+1284.0,Silk,Balloons,58519.0
+1285.0,Wool,Industrial and scientific uses,33162.0
+1286.0,Rayon,kites,55739.0
+1287.0,Linen,Bags and other means of carrying objects,55549.0
+1288.0,Wool,Furnishings and other home accessories,60789.0
+1289.0,Linen,Rugs and carpets.,91905.0
+1290.0,Wool,Furnishings and other home accessories,92766.0
+1291.0,Cotton,sails,97014.0
+1292.0,Silk,sails,91664.0
+1293.0,Rayon,Industrial and scientific uses,80946.0
+1294.0,Silk,Geotextiles,78379.0
+1295.0,Cotton,parachutes,44956.0
+1296.0,Rayon,Balloons,74104.0
+1297.0,Rayon,Nets,98964.0
+1298.0,Satin,parachutes,67805.0
+1299.0,Rayon,parachutes,12484.0
+1300.0,Silk,Bags and other means of carrying objects,21111.0
+1301.0,Wool,Nets,23508.0
+1302.0,Polyester,Rugs and carpets.,40233.0
+1303.0,Muslin,Nets,65556.0
+1304.0,Muslin,Furnishings and other home accessories,89621.0
+1305.0,Rayon,Bags and other means of carrying objects,61875.0
+1306.0,Satin,kites,4427.0
+1307.0,Rayon,Industrial and scientific uses,17155.0
+1308.0,Satin,Flags,87713.0
+1309.0,Silk,Rugs and carpets.,77575.0
+1310.0,Rayon,kites,38189.0
+1311.0,Satin,Furnishings and other home accessories,47888.0
+1312.0,Wool,sails,43879.0
+1313.0,Satin,kites,70469.0
+1314.0,Wool,Geotextiles,75031.0
+1315.0,Cotton,Geotextiles,74741.0
+1316.0,Rayon,Balloons,6473.0
+1317.0,Rayon,Clothing,6955.0
+1318.0,Muslin,Earlier aero planes used cloth,38506.0
+1319.0,Satin,sails,41216.0
+1320.0,Cotton,Flags,47984.0
+1321.0,Satin,Clothing,93225.0
+1322.0,Polyester,parachutes,91789.0
+1323.0,Muslin,kites,37145.0
+1324.0,Silk,Industrial and scientific uses,52223.0
+1325.0,Rayon,Earlier aero planes used cloth,72715.0
+1326.0,Silk,Bags and other means of carrying objects,5981.0
+1327.0,Silk,Furnishings and other home accessories,97511.0
+1328.0,Linen,Rugs and carpets.,51580.0
+1329.0,Linen,Furnishings and other home accessories,67851.0
+1330.0,Muslin,Earlier aero planes used cloth,70070.0
+1331.0,Cotton,kites,57354.0
+1332.0,Rayon,Clothing,63125.0
+1333.0,Satin,Clothing,58851.0
+1334.0,Polyester,Nets,43166.0
+1335.0,Satin,Flags,75381.0
+1336.0,Rayon,Earlier aero planes used cloth,27189.0
+1337.0,Satin,kites,16873.0
+1338.0,Cotton,Furnishings and other home accessories,52895.0
+1339.0,Rayon,Earlier aero planes used cloth,71388.0
+1340.0,Polyester,Furnishings and other home accessories,25574.0
+1341.0,Rayon,Furnishings and other home accessories,72045.0
+1342.0,Cotton,kites,44567.0
+1343.0,Cotton,sails,69251.0
+1344.0,Polyester,Flags,43457.0
+1345.0,Linen,parachutes,86971.0
+1346.0,Rayon,Furnishings and other home accessories,23080.0
+1347.0,Linen,Balloons,79410.0
+1348.0,Silk,parachutes,20930.0
+1349.0,Linen,Furnishings and other home accessories,83083.0
+1350.0,Cotton,Balloons,51971.0
+1351.0,Muslin,parachutes,22585.0
+1352.0,Silk,Geotextiles,9540.0
+1353.0,Rayon,Flags,78737.0
+1354.0,Wool,Bags and other means of carrying objects,23710.0
+1355.0,Silk,Bags and other means of carrying objects,75903.0
+1356.0,Rayon,sails,20271.0
+1357.0,Satin,Clothing,77948.0
+1358.0,Cotton,Geotextiles,94347.0
+1359.0,Silk,Furnishings and other home accessories,54738.0
+1360.0,Silk,Geotextiles,65691.0
+1361.0,Polyester,sails,6916.0
+1362.0,Polyester,kites,48855.0
+1363.0,Silk,Flags,57870.0
+1364.0,Cotton,Earlier aero planes used cloth,42830.0
+1365.0,Polyester,Flags,19901.0
+1366.0,Satin,Bags and other means of carrying objects,48213.0
+1367.0,Muslin,Industrial and scientific uses,71368.0
+1368.0,Rayon,Earlier aero planes used cloth,71285.0
+1369.0,Silk,Clothing,23281.0
+1370.0,Cotton,sails,42084.0
+1371.0,Linen,sails,90491.0
+1372.0,Wool,kites,92200.0
+1373.0,Linen,Clothing,8124.0
+1374.0,Muslin,sails,14746.0
+1375.0,Polyester,Rugs and carpets.,91161.0
+1376.0,Satin,parachutes,74011.0
+1377.0,Cotton,Earlier aero planes used cloth,81907.0
+1378.0,Satin,sails,64393.0
+1379.0,Rayon,Bags and other means of carrying objects,76594.0
+1380.0,Wool,Industrial and scientific uses,8048.0
+1381.0,Polyester,Balloons,36213.0
+1382.0,Satin,Bags and other means of carrying objects,48858.0
+1383.0,Polyester,Nets,24179.0
+1384.0,Polyester,Rugs and carpets.,27846.0
+1385.0,Satin,Geotextiles,1249.0
+1386.0,Wool,Flags,76844.0
+1387.0,Satin,parachutes,40658.0
+1388.0,Satin,sails,74377.0
+1389.0,Cotton,Balloons,76827.0
+1390.0,Polyester,Nets,11100.0
+1391.0,Cotton,Nets,68774.0
+1392.0,Cotton,sails,66936.0
+1393.0,Linen,Balloons,1907.0
+1394.0,Rayon,kites,82842.0
+1395.0,Linen,sails,15936.0
+1396.0,Rayon,Industrial and scientific uses,12418.0
+1397.0,Polyester,Industrial and scientific uses,28676.0
+1398.0,Muslin,Flags,57369.0
+1399.0,Silk,sails,18100.0
+1400.0,Polyester,Geotextiles,8508.0
+1401.0,Satin,parachutes,73403.0
+1402.0,Satin,Earlier aero planes used cloth,77770.0
+1403.0,Silk,Nets,96867.0
+1404.0,Rayon,Earlier aero planes used cloth,67350.0
+1405.0,Rayon,Balloons,89044.0
+1406.0,Linen,Furnishings and other home accessories,45505.0
+1407.0,Muslin,Balloons,6638.0
+1408.0,Polyester,Furnishings and other home accessories,74359.0
+1409.0,Satin,kites,12093.0
+1410.0,Silk,sails,42821.0
+1411.0,Wool,Bags and other means of carrying objects,29381.0
+1412.0,Satin,Geotextiles,8072.0
+1413.0,Muslin,Industrial and scientific uses,58781.0
+1414.0,Polyester,Earlier aero planes used cloth,96131.0
+1415.0,Wool,Rugs and carpets.,27784.0
+1416.0,Silk,Clothing,65797.0
+1417.0,Silk,Nets,21296.0
+1418.0,Satin,Industrial and scientific uses,10486.0
+1419.0,Wool,Geotextiles,5818.0
+1420.0,Muslin,Balloons,62550.0
+1421.0,Polyester,Geotextiles,26363.0
+1422.0,Linen,Balloons,6366.0
+1423.0,Silk,Flags,55204.0
+1424.0,Linen,parachutes,53334.0
+1425.0,Linen,Balloons,68199.0
+1426.0,Muslin,Nets,78840.0
+1427.0,Wool,kites,13069.0
+1428.0,Satin,Rugs and carpets.,74794.0
+1429.0,Silk,Earlier aero planes used cloth,39490.0
+1430.0,Linen,Clothing,32004.0
+1431.0,Cotton,Industrial and scientific uses,78777.0
+1432.0,Satin,sails,1139.0
+1433.0,Polyester,Clothing,68384.0
+1434.0,Satin,Earlier aero planes used cloth,43072.0
+1435.0,Rayon,Clothing,89445.0
+1436.0,Muslin,kites,92481.0
+1437.0,Cotton,Earlier aero planes used cloth,4592.0
+1438.0,Wool,Bags and other means of carrying objects,69624.0
+1439.0,Satin,Industrial and scientific uses,80897.0
+1440.0,Wool,parachutes,69031.0
+1441.0,Wool,sails,47760.0
+1442.0,Muslin,sails,96515.0
+1443.0,Cotton,Industrial and scientific uses,66074.0
+1444.0,Muslin,Balloons,15198.0
+1445.0,Linen,Geotextiles,81064.0
+1446.0,Polyester,Balloons,45712.0
+1447.0,Polyester,Earlier aero planes used cloth,99305.0
+1448.0,Cotton,kites,38953.0
+1449.0,Muslin,Industrial and scientific uses,79569.0
+1450.0,Muslin,Furnishings and other home accessories,37490.0
+1451.0,Rayon,Bags and other means of carrying objects,5100.0
+1452.0,Cotton,Nets,94986.0
+1453.0,Satin,sails,72028.0
+1454.0,Cotton,parachutes,47005.0
+1455.0,Wool,Balloons,36486.0
+1456.0,Silk,Furnishings and other home accessories,66381.0
+1457.0,Polyester,Nets,3054.0
+1458.0,Wool,Rugs and carpets.,63701.0
+1459.0,Muslin,Geotextiles,63765.0
+1460.0,Wool,Furnishings and other home accessories,12855.0
+1461.0,Polyester,Earlier aero planes used cloth,44836.0
+1462.0,Muslin,sails,36482.0
+1463.0,Cotton,Clothing,39936.0
+1464.0,Wool,Geotextiles,16580.0
+1465.0,Polyester,kites,10911.0
+1466.0,Cotton,Clothing,46371.0
+1467.0,Satin,Furnishings and other home accessories,7652.0
+1468.0,Wool,parachutes,74525.0
+1469.0,Polyester,Geotextiles,96873.0
+1470.0,Silk,Bags and other means of carrying objects,80779.0
+1471.0,Cotton,Balloons,73318.0
+1472.0,Cotton,Industrial and scientific uses,21743.0
+1473.0,Muslin,Balloons,73259.0
+1474.0,Muslin,sails,22289.0
+1475.0,Polyester,Geotextiles,71791.0
+1476.0,Satin,Flags,40638.0
+1477.0,Cotton,Geotextiles,76903.0
+1478.0,Satin,Rugs and carpets.,23194.0
+1479.0,Linen,Nets,23704.0
+1480.0,Rayon,Balloons,8208.0
+1481.0,Wool,Flags,82570.0
+1482.0,Satin,Geotextiles,69180.0
+1483.0,Silk,Earlier aero planes used cloth,54757.0
+1484.0,Silk,Industrial and scientific uses,12144.0
+1485.0,Polyester,Rugs and carpets.,48166.0
+1486.0,Rayon,Nets,28860.0
+1487.0,Silk,Bags and other means of carrying objects,41935.0
+1488.0,Satin,Bags and other means of carrying objects,3415.0
+1489.0,Rayon,parachutes,11247.0
+1490.0,Linen,Industrial and scientific uses,32958.0
+1491.0,Cotton,Industrial and scientific uses,16843.0
+1492.0,Rayon,Balloons,22863.0
+1493.0,Silk,sails,88699.0
+1494.0,Muslin,Geotextiles,21531.0
+1495.0,Wool,kites,51294.0
+1496.0,Satin,Clothing,32531.0
+1497.0,Linen,parachutes,20741.0
+1498.0,Muslin,Rugs and carpets.,92479.0
+1499.0,Silk,Balloons,26914.0
+1500.0,Wool,Clothing,42439.0
+1501.0,Satin,Furnishings and other home accessories,72471.0
+1502.0,Rayon,Clothing,87799.0
+1503.0,Satin,sails,40318.0
+1504.0,Cotton,Furnishings and other home accessories,42979.0
+1505.0,Silk,kites,16954.0
+1506.0,Satin,Rugs and carpets.,27255.0
+1507.0,Muslin,Earlier aero planes used cloth,42050.0
+1508.0,Wool,Rugs and carpets.,60400.0
+1509.0,Silk,Clothing,15232.0
+1510.0,Linen,Furnishings and other home accessories,30348.0
+1511.0,Wool,Earlier aero planes used cloth,5276.0
+1512.0,Linen,Bags and other means of carrying objects,69870.0
+1513.0,Rayon,parachutes,90326.0
+1514.0,Silk,Furnishings and other home accessories,8169.0
+1515.0,Rayon,Earlier aero planes used cloth,99895.0
+1516.0,Muslin,Furnishings and other home accessories,20090.0
+1517.0,Rayon,sails,6680.0
+1518.0,Rayon,Balloons,97397.0
+1519.0,Satin,Nets,16754.0
+1520.0,Wool,Industrial and scientific uses,63218.0
+1521.0,Satin,Flags,64891.0
+1522.0,Muslin,kites,79022.0
+1523.0,Linen,Industrial and scientific uses,57159.0
+1524.0,Wool,Geotextiles,89660.0
+1525.0,Cotton,Balloons,51985.0
+1526.0,Rayon,Geotextiles,40679.0
+1527.0,Linen,sails,83251.0
+1528.0,Rayon,Industrial and scientific uses,30665.0
+1529.0,Silk,Earlier aero planes used cloth,61418.0
+1530.0,Satin,Geotextiles,58332.0
+1531.0,Satin,Furnishings and other home accessories,27987.0
+1532.0,Satin,sails,75559.0
+1533.0,Silk,Nets,15133.0
+1534.0,Linen,Nets,3960.0
+1535.0,Rayon,Industrial and scientific uses,16047.0
+1536.0,Wool,Geotextiles,11431.0
+1537.0,Linen,Geotextiles,52418.0
+1538.0,Satin,Industrial and scientific uses,99885.0
+1539.0,Satin,Furnishings and other home accessories,75917.0
+1540.0,Rayon,sails,88726.0
+1541.0,Muslin,Furnishings and other home accessories,9803.0
+1542.0,Muslin,Nets,77651.0
+1543.0,Muslin,Furnishings and other home accessories,41539.0
+1544.0,Muslin,Bags and other means of carrying objects,48920.0
+1545.0,Wool,Rugs and carpets.,53678.0
+1546.0,Silk,Balloons,19553.0
+1547.0,Muslin,sails,83709.0
+1548.0,Silk,Clothing,48475.0
+1549.0,Muslin,sails,16875.0
+1550.0,Linen,Earlier aero planes used cloth,1344.0
+1551.0,Satin,Flags,16301.0
+1552.0,Silk,kites,14888.0
+1553.0,Cotton,Balloons,36623.0
+1554.0,Polyester,Earlier aero planes used cloth,70239.0
+1555.0,Muslin,Balloons,85867.0
+1556.0,Rayon,Clothing,89872.0
+1557.0,Linen,Earlier aero planes used cloth,15211.0
+1558.0,Cotton,Bags and other means of carrying objects,41801.0
+1559.0,Linen,Earlier aero planes used cloth,11957.0
+1560.0,Satin,sails,19735.0
+1561.0,Satin,Rugs and carpets.,65700.0
+1562.0,Silk,Geotextiles,55470.0
+1563.0,Silk,kites,14854.0
+1564.0,Silk,Industrial and scientific uses,21171.0
+1565.0,Silk,Industrial and scientific uses,37905.0
+1566.0,Polyester,Rugs and carpets.,94225.0
+1567.0,Muslin,Rugs and carpets.,92915.0
+1568.0,Silk,kites,49061.0
+1569.0,Polyester,Furnishings and other home accessories,6915.0
+1570.0,Polyester,Earlier aero planes used cloth,51405.0
+1571.0,Wool,Rugs and carpets.,2820.0
+1572.0,Satin,Clothing,1084.0
+1573.0,Linen,Bags and other means of carrying objects,3041.0
+1574.0,Polyester,Balloons,30033.0
+1575.0,Linen,Industrial and scientific uses,39255.0
+1576.0,Cotton,Industrial and scientific uses,29716.0
+1577.0,Cotton,Bags and other means of carrying objects,12016.0
+1578.0,Wool,Rugs and carpets.,63539.0
+1579.0,Polyester,parachutes,4441.0
+1580.0,Satin,Furnishings and other home accessories,28980.0
+1581.0,Wool,Earlier aero planes used cloth,82702.0
+1582.0,Polyester,parachutes,23852.0
+1583.0,Cotton,kites,92069.0
+1584.0,Rayon,Rugs and carpets.,69587.0
+1585.0,Silk,parachutes,53761.0
+1586.0,Satin,Bags and other means of carrying objects,9082.0
+1587.0,Muslin,Industrial and scientific uses,36008.0
+1588.0,Wool,Bags and other means of carrying objects,6085.0
+1589.0,Polyester,Industrial and scientific uses,52482.0
+1590.0,Linen,parachutes,50581.0
+1591.0,Wool,Balloons,8703.0
+1592.0,Rayon,kites,41087.0
+1593.0,Wool,sails,13127.0
+1594.0,Linen,Earlier aero planes used cloth,74541.0
+1595.0,Rayon,Furnishings and other home accessories,94315.0
+1596.0,Rayon,Flags,17950.0
+1597.0,Satin,Balloons,96733.0
+1598.0,Silk,parachutes,82320.0
+1599.0,Rayon,Balloons,20467.0
+1600.0,Satin,Balloons,22160.0
